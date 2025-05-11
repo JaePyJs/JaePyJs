@@ -134,6 +134,7 @@ html {
   justify-content: center;
   margin-top: 1rem;
 }
+
 .footer {
   margin-top: auto;
   padding: 1.5rem 0;
@@ -144,10 +145,12 @@ html {
   background: rgba(54, 44, 77, 0.5);
   border-radius: 0 0 16px 16px;
 }
+
 .visitor {
   margin-left: 1rem;
   font-size: 0.9rem;
 }
+
 .gradientText {
   background: linear-gradient(90deg, #F67280, #C06C84, #6C5B7B, #355C7D);
   -webkit-background-clip: text;
@@ -158,22 +161,26 @@ html {
   font-size: clamp(2rem, 5vw, 4rem);
   font-weight: 800;
 }
+
 @keyframes gradientMove {
   0% { background-position: 0% 50%; }
   50% { background-position: 100% 50%; }
   100% { background-position: 0% 50%; }
 }
+
 .reveal {
   opacity: 0;
   transform: translateY(40px);
   transition: opacity 0.8s cubic-bezier(0.4,0.2,0.2,1), transform 0.8s cubic-bezier(0.4,0.2,0.2,1);
   will-change: opacity, transform;
 }
+
 .show {
   opacity: 1 !important;
   transform: translateY(0) !important;
   transition: opacity 0.8s cubic-bezier(0.4,0.2,0.2,1), transform 0.8s cubic-bezier(0.4,0.2,0.2,1);
 }
+
 .projectItem a {
   color: #fff !important;
   font-size: 1.18em;
@@ -186,6 +193,7 @@ html {
   max-width: 100%;
   overflow-wrap: break-word;
 }
+
 .projectItemIcon {
   font-size: 1.5em;
   margin-right: 0.5em;
@@ -212,10 +220,12 @@ html {
   transform-origin: right;
   transition: transform 0.3s ease-out;
 }
+
 .projectItem a:hover {
   transform: translateY(-3px);
   color: #fff;
 }
+
 .projectItem a:hover::after {
   transform: scaleX(1);
   transform-origin: left;
