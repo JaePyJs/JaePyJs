@@ -1,0 +1,15 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background: #22223B;
+  font-family: 'Segoe UI', 'Roboto', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+* {
+  box-sizing: inherit;
+}
