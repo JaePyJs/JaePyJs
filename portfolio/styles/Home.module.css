@@ -173,10 +173,6 @@ html {
   transform: translateY(0) !important;
   transition: opacity 0.8s cubic-bezier(0.4,0.2,0.2,1), transform 0.8s cubic-bezier(0.4,0.2,0.2,1);
 }
-.show {
-  opacity: 1 !important;
-  transform: translateY(0) !important;
-}
 .projectItem a {
   color: #fff !important;
   font-size: 1.18em;
@@ -189,10 +185,6 @@ html {
   max-width: 100%;
   overflow-wrap: break-word;
 }
-  color: #fff !important;
-  font-size: 1.18em;
-  font-weight: 700;
-  display: flex;
   align-items: center;
   gap: 0.7em;
   word-break: break-word;
