@@ -185,10 +185,6 @@ html {
   max-width: 100%;
   overflow-wrap: break-word;
 }
-  align-items: center;
-  gap: 0.7em;
-  word-break: break-word;
-  flex-wrap: wrap;
 }
 .projectItemIcon {
   font-size: 1.5em;
