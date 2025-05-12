@@ -109,6 +109,9 @@
   _generated with [Platane/snk](https://github.com/Platane/snk) and inspired by [technologyhell](https://github.com/technologyhell) and [salesp07](https://github.com/salesp07/salesp07)_
 </div>
 
+<br>
+<br>
+
 ---
 
 <h2 align="center">📬 Contact Me</h2>
