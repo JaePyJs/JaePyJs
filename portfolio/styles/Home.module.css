@@ -133,33 +133,35 @@
   font-size: 0.9rem;
 }
 
-.gradientText {
-  background: linear-gradient(90deg, #F67280, #C06C84, #6C5B7B, #355C7D);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: gradientMove 8s ease infinite;
-  background-size: 400% 100%;
-  font-size: clamp(2rem, 5vw, 4rem);
-  font-weight: 800;
-}
+:global {
+  .gradientText {
+    background: linear-gradient(90deg, #F67280, #C06C84, #6C5B7B, #355C7D);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradientMove 8s ease infinite;
+    background-size: 400% 100%;
+    font-size: clamp(2rem, 5vw, 4rem);
+    font-weight: 800;
+  }
 
-@keyframes gradientMove {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
+  @keyframes gradientMove {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
 
-.reveal {
-  opacity: 0;
-  transform: translateY(40px);
-  transition: opacity 0.8s cubic-bezier(0.4,0.2,0.2,1), transform 0.8s cubic-bezier(0.4,0.2,0.2,1);
-  will-change: opacity, transform;
-}
+  .reveal {
+    opacity: 0;
+    transform: translateY(40px);
+    transition: opacity 0.8s cubic-bezier(0.4,0.2,0.2,1), transform 0.8s cubic-bezier(0.4,0.2,0.2,1);
+    will-change: opacity, transform;
+  }
 
-.show {
-  opacity: 1;
-  transform: translateY(0);
+  .show {
+    opacity: 1 !important;
+    transform: translateY(0) !important;
+  }
 }
 
 .projectItem a {
@@ -235,4 +237,56 @@
 
 .interactiveCard p {
   margin: 0.5rem 0;
+}
+
+@keyframes floatUp {
+  0% {
+    transform: translateY(0) rotate(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-100vh) rotate(360deg);
+    opacity: 0;
+  }
+}
+
+.emojiBg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  pointer-events: none;
+  z-index: -1;
+}
+
+.emojiBg span {
+  position: absolute;
+  display: inline-block;
+  font-size: 3rem;
+  animation: floatUp 15s linear infinite;
+}
+
+.e1 { left: 10%; animation-delay: 0s; }
+.e2 { left: 25%; animation-delay: 3s; }
+.e3 { left: 40%; animation-delay: 6s; }
+.e4 { left: 55%; animation-delay: 1.5s; }
+.e5 { left: 70%; animation-delay: 4.5s; }
+.e6 { left: 85%; animation-delay: 7.5s; }
+
+.floatingEmoji {
+  position: absolute;
+  top: 0;
+  font-size: 2.5rem;
+  animation: floatUp 12s linear infinite;
+  pointer-events: none;
+}
+
+.title {
+  font-size: clamp(2.5rem, 7vw, 3.5rem);
+  font-weight: 900;
+  margin: 0.5rem 0 1rem;
+  color: #fff;
+  text-shadow: 0 2px 8px #22223B44;
 }

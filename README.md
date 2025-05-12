@@ -94,6 +94,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaePyJs&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=JaePyJs&theme=radical)](https://git.io/streak-stats)
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/JaePyJs/JaePyJs/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
 ---
 
 <p align="center">
