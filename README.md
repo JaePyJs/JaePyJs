@@ -103,10 +103,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
-<div align="center">
-  _generated with [Platane/snk](https://github.com/Platane/snk) and inspired by [technologyhell](https://github.com/technologyhell) and [salesp07](https://github.com/salesp07/salesp07)_
+  <br>
+  <p style="text-align: center;">
+    generated with <a href="https://github.com/Platane/snk">Platane/snk</a> and inspired by <a href="https://github.com/technologyhell">technologyhell</a> and <a href="https://github.com/salesp07/salesp07">salesp07</a>
+  </p>
 </div>
 
 <br>
