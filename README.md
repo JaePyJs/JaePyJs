@@ -88,8 +88,6 @@ _generated with [Platane/snk](https://github.com/Platane/snk) and inspired by [t
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
-
 <h2 align="center">✨ Choose Your Path</h2>
 
 - [🚀 Projects](#-projects)
