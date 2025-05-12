@@ -55,8 +55,6 @@
 
 ---
 
-<h2 align="center">🚀 Projects</h2>
-
 <div align="center">
   <h2>🚀 Projects</h2>
   
