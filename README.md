@@ -95,6 +95,8 @@
 - Next.js
 - AI/ML fundamentals
 - Advanced algorithms
+- Supabase and SaaS development
+- Logic Programming
 
 ---
 
