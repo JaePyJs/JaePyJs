@@ -49,42 +49,29 @@
 ---
 
 <!-- Stats -->
-<div align="center" style="background: rgba(246, 114, 128, 0.05); padding: 20px; border-radius: 15px; margin: 20px 0;">
+<div align="center">
   <!-- Main Stats -->
-  <div style="background: rgba(96, 92, 123, 0.1); padding: 15px; border-radius: 10px; margin: 10px;">
-    <h3>📊 Main Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=JaePyJs&theme=aura&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000" width="100%" />
-  </div>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=JaePyJs&theme=aura&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000" width="55%" />
+  
   <!-- Streak Stats -->
-  <div style="background: rgba(96, 92, 123, 0.1); padding: 15px; border-radius: 10px; margin: 10px;">
-    <h3>🔥 Streak Stats</h3>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaePyJs&theme=aura&hide_border=true&bg_color=00000000" width="100%" />
-  </div>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaePyJs&theme=aura&hide_border=true&bg_color=00000000" width="45%" />
+  
   <!-- Top Languages -->
-  <div style="background: rgba(96, 92, 123, 0.1); padding: 15px; border-radius: 10px; margin: 10px;">
-    <h3>💻 Top Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaePyJs&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact&show_icons=true&bg_color=00000000" width="100%" />
-  </div>
-
-  <!-- Activity Graph -->
-  <div style="background: rgba(96, 92, 123, 0.1); padding: 15px; border-radius: 10px; margin: 10px;">
-    <h3>📊 Activity Graph</h3>
-    <img src="https://activity-graph.herokuapp.com/graph?username=JaePyJs&theme=aura&hide_border=true&bg_color=00000000" width="100%" />
-  </div>
-
-  <!-- GitHub Achievements -->
-  <div style="background: rgba(96, 92, 123, 0.1); padding: 15px; border-radius: 10px; margin: 10px;">
-    <h3>🏆 GitHub Achievements</h3>
-    <img src="https://github-profile-trophy.vercel.app/?username=JaePyJs&theme=aura&no-bg=true" width="100%" />
-  </div>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaePyJs&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact&show_icons=true&bg_color=00000000" width="45%" />
+  
   <!-- Profile Views -->
-  <div style="background: rgba(96, 92, 123, 0.1); padding: 15px; border-radius: 10px; margin: 10px;">
-    <h3>👁️ Profile Views</h3>
-    <img src="https://komarev.com/ghpvc/?username=JaePyJs&label=Profile+Views&color=6C5B7B&style=for-the-badge" alt="Profile Views" />
-  </div>
+  <img src="https://komarev.com/ghpvc/?username=JaePyJs&label=Profile+Views&color=6C5B7B&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<!-- Snake Game -->
+<div align="center">
+  <img src="https://github.com/technologyhell/technologyhell/blob/main/assets/snake.svg" alt="Snake Game" width="100%" />
+</div>
+
+<!-- Achievements -->
+<div align="center">
+  <h2>🏆 Achievements</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=JaePyJs&theme=aura&no-bg=true" width="100%" />
 </div>
 
 ---
@@ -93,37 +80,26 @@
   <h2>🚀 Projects</h2>
 </div>
 
-<div align="center">
-  <!-- Education Projects -->
-  <div style="background: rgba(246, 114, 128, 0.1); padding: 15px; border-radius: 10px; margin: 10px;">
-    <h3>Education</h3>
-    <a href="https://github.com/JaePyJs/perpetual-help-enrollment-system" target="_blank">
-      <img src="https://img.shields.io/badge/Perpetual%20Help%20Enrollment%20System-355C7D?style=for-the-badge&logo=github&logoColor=white" alt="Perpetual Help Enrollment System" />
-    </a>
-    <p>A comprehensive enrollment system for Perpetual Help College. Features include student registration, course management, and automated scheduling.</p>
-    <p>Tech Stack: Python, Flask, SQLite, HTML/CSS/JS</p>
-  </div>
+### 📚 Education Projects
 
-  <!-- Discord Bots -->
-  <div style="background: rgba(96, 92, 123, 0.1); padding: 15px; border-radius: 10px; margin: 10px;">
-    <h3>Discord Bots</h3>
-    <a href="https://github.com/JaePyJs/reddit2discord-memes" target="_blank">
-      <img src="https://img.shields.io/badge/Reddit2Discord%20Memes-6C5B7B?style=for-the-badge&logo=github&logoColor=white" alt="Reddit2Discord Memes" />
-    </a>
-    <p>An automated Discord bot that fetches memes from Reddit and posts them to designated channels. Features include customizable subreddits and posting schedules.</p>
-    <p>Tech Stack: Python, Discord.py, Reddit API</p>
-  </div>
+- **Perpetual Help Enrollment System**
+  A comprehensive enrollment system for Perpetual Help College. Features include student registration, course management, and automated scheduling.
+  
+  Tech Stack: Python, Flask, SQLite, HTML/CSS/JS
 
-  <!-- Web Applications -->
-  <div style="background: rgba(246, 114, 128, 0.1); padding: 15px; border-radius: 10px; margin: 10px;">
-    <h3>Web Applications</h3>
-    <a href="https://github.com/JaePyJs/mix-and-munch" target="_blank">
-      <img src="https://img.shields.io/badge/Mix%20and%20Munch-F67280?style=for-the-badge&logo=github&logoColor=white" alt="Mix and Munch" />
-    </a>
-    <p>A Filipino recipe generator that combines traditional ingredients in creative ways. Features include recipe suggestions, ingredient substitution, and nutritional information.</p>
-    <p>Tech Stack: React, Node.js, Express, MongoDB</p>
-  </div>
-</div>
+### 🤖 Discord Bots
+
+- **Reddit2Discord Memes Bot**
+  A Discord bot that automatically posts memes from Reddit to Discord channels. Features include automatic posting, custom channel configuration, and meme categorization.
+  
+  Tech Stack: Python, discord.py, praw
+
+### 🌐 Web Applications
+
+- **Mix and Munch Recipe Generator**
+  A web application that generates unique recipes based on user preferences. Features include ingredient selection, cooking time filtering, and nutritional information.
+  
+  Tech Stack: React, Node.js, Express, MongoDB
 
 ---
 
