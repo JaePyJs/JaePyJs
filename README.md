@@ -8,7 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F67280&center=true&vCenter=true&width=435&lines=Welcome!+I'm+Jae;I+love+Python;That's+all..." alt="Typing SVG" />
 </div>
 
-![Visitor badge](https://komarev.com/ghpvc/?username=JaePyJs&label=Profile+Views&color=6C5B7B&style=flat-square)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JaePyJs&label=Profile+Views&color=6C5B7B&style=flat-square" alt="Visitor badge" />
+</div>
 
 ---
 
@@ -37,20 +39,24 @@
 
 ---
 
-<h2 align="center">🚀 Projects</h2>
-
-[![perpetual-help-enrollment-system](https://img.shields.io/badge/Perpetual%20Help%20Enrollment%20System-355C7D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaePyJs/perpetual-help-enrollment-system)
-[![reddit2discord-memes](https://img.shields.io/badge/Reddit2Discord%20Memes-6C5B7B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaePyJs/reddit2discord-memes)
-[![Mix and Munch: Filipino Recipe Generator](https://img.shields.io/badge/Mix%20and%20Munch-F67280?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaePyJs/mix-and-munch)
-
----
-
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JaePyJs&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaePyJs&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaePyJs&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
+
+---
+
+<h2 align="center">✨ Choose Your Path</h2>
+
+---
+
+<h2 align="center">🚀 Projects</h2>
+
+[![perpetual-help-enrollment-system](https://img.shields.io/badge/Perpetual%20Help%20Enrollment%20System-355C7D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaePyJs/perpetual-help-enrollment-system)
+[![reddit2discord-memes](https://img.shields.io/badge/Reddit2Discord%20Memes-6C5B7B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaePyJs/reddit2discord-memes)
+[![Mix and Munch: Filipino Recipe Generator](https://img.shields.io/badge/Mix%20and%20Munch-F67280?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaePyJs/mix-and-munch)
 
 ---
 
