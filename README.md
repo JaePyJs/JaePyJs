@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F67280&center=true&vCenter=true&width=435&lines=Welcome!+I'm+Jae;I+love+Python;That's+all..." alt="Typing SVG" />
   
   <p style="text-align: center;">
-    <img src="https://komarev.com/ghpvc/?username=JaePyJs&label=Profile+Views&color=6C5B7B&style=flat-square" alt="Visitor badge" />
+    <img src="https://komarev.com/ghpvc/?username=JaePyJs&label=Visitors&color=6C5B7B&style=flat-square" alt="Visitor badge" />
   </p>
 </div>
 
