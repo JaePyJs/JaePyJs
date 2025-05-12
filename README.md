@@ -50,7 +50,7 @@
 
 <!-- Stats -->
 <div align="center">
-  <h2>⚡ Stats</h2>
+  <h2>⚡ Stats ⚡</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=JaePyJs&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaePyJs&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Streak" width="48%" />
   <br>
