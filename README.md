@@ -10,12 +10,25 @@
 
 ---
 
+<h2 align="center">✨ Choose Your Path</h2>
+
+- [🚀 Projects](#-projects)
+- [🛠️ Tech Stack](#-tech-stack)
+- [🌱 Currently Learning](#-currently-learning)
+- [🎮 Fun Fact](#-about-me)
+- [📬 Contact Me](./TextMe.md)
+
+---
+
 <h2 align="center">🧑‍💻 About Me</h2>
 
-🎓 Computer Science student passionate about AI, web dev, and logic programming<br>
-🤖 I love building creative solutions and exploring new tech<br>
-🎵 Fun fact: I can do beat box while coding<br>
+🤖 I love building creative solutions and exploring new tech<be>
+
+🎵 Fun fact: I can do beat box while coding<be>
+
 💡 Always learning, always curious
+
+⌨️ Com Sci Student
 
 <details>
   <summary align="center">✨ <b>Click for more fun facts!</b></summary>
@@ -32,6 +45,7 @@
 
 </details>
 
+
 ---
 
 <!-- Stats -->
@@ -43,22 +57,13 @@
 
 ---
 
-<h2 align="center">✨ Choose Your Path</h2>
-
-- [🚀 Projects](#-projects)
-- [🛠️ Tech Stack](#-tech-stack)
-- [🌱 Currently Learning](#-currently-learning)
-- [🎮 Fun Fact](#-about-me)
-- [🌐 Portfolio Website](https://your-portfolio-link.com)
-- [📬 Contact Me](./TextMe.md)
-
----
-
 <h2 align="center">🚀 Projects</h2>
 
+<p align="center">
 [![perpetual-help-enrollment-system](https://img.shields.io/badge/Perpetual%20Help%20Enrollment%20System-355C7D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaePyJs/perpetual-help-enrollment-system)
 [![reddit2discord-memes](https://img.shields.io/badge/Reddit2Discord%20Memes-6C5B7B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaePyJs/reddit2discord-memes)
 [![Mix and Munch: Filipino Recipe Generator](https://img.shields.io/badge/Mix%20and%20Munch-F67280?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaePyJs/mix-and-munch)
+</p>
 
 ---
 
@@ -104,13 +109,10 @@ _generated with [Platane/snk](https://github.com/Platane/snk) and inspired by [t
 
 ---
 
-
-
 <h2 align="center">📬 Contact Me</h2>
 
 - ✉️ [Email](mailto:jmbarron0@gmail.com)
 - 🐙 [GitHub](https://github.com/JaePyJs)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
 - 💬 [Discord](https://discordapp.com/users/898905034107019285)
 
 ---
