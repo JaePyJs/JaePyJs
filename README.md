@@ -78,19 +78,13 @@
 ---
 
 <h2 align="center">🐍 Snake Animation For Fun</h2>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake.svg" />
-    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-<p align="center" style="font-size: 14px;">
-  <b>Sources/Credits:</b>
-  <a href="https://github.com/Platane/snk" target="_blank">Platane/snk</a> |
-  <a href="https://github.com/salesp07/salesp07" target="_blank">salesp07 GitHub Profile</a> |
-  <a href="https://technologyhellyt.blogspot.com/2024/10/snake-game-on-github-profile.html" target="_blank">technologyhellyt blog post</a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk) and inspired by [technologyhell](https://github.com/technologyhell) and [salesp07](https://github.com/salesp07/salesp07)_
 
 ---
 
