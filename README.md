@@ -12,18 +12,22 @@
 
 <h2 align="center">🧑‍💻 About Me</h2>
 
-🎓 Computer Science student passionate about AI, web dev, and logic programming  
-🤖 I love building creative solutions and exploring new tech  
-🎵 Fun fact: I can do beat box while coding  
+🎓 Computer Science student passionate about AI, web dev, and logic programming<br>
+🤖 I love building creative solutions and exploring new tech<br>
+🎵 Fun fact: I can do beat box while coding<br>
 💡 Always learning, always curious
 
 <details>
   <summary align="center">✨ <b>Click for more fun facts!</b></summary>
   
-  🎮 I build games and quizzes for fun and learning.  
-  🐍 Python is my favorite language.  
-  💻 I love vibrant, interactive UIs!  
-  🚀 I love launching new side projects!  
+  🎮 I build games and quizzes for fun and learning.
+  
+  🐍 Python is my favorite language.
+  
+  💻 I love vibrant, interactive UIs!
+  
+  🚀 I love launching new side projects!
+  
   🆕 I'm just a newbie. I also watch anime, read novels, manwha, and manhua.
 
 </details>
@@ -41,13 +45,6 @@
 
 <h2 align="center">✨ Choose Your Path</h2>
 
-- [🚀 Projects](#-projects)
-- [🛠️ Tech Stack](#-tech-stack)
-- [🌱 Currently Learning](#-currently-learning)
-- [🎮 Fun Fact](#-about-me)
-- [🌐 Portfolio Website](https://your-portfolio-link.com)
-- [📬 Contact Me](./TextMe.md)
-
 ---
 
 <h2 align="center">🚀 Projects</h2>
@@ -61,7 +58,22 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <!-- (icons here, unchanged) -->
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/></a>
+  <a href="https://clerk.dev/" target="_blank"><img src="https://avatars.githubusercontent.com/u/71596357?s=200&v=4" alt="Clerk" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>
 </p>
 
 ---
@@ -85,16 +97,31 @@ _generated with [Platane/snk](https://github.com/Platane/snk) and inspired by [t
 
 ---
 
-<h2 align="center">📬 Contact Me</h2>
+<h2 align="center">📬 Contact Me & Links</h2>
 
 - ✉️ [Email](mailto:jmbarron0@gmail.com)
+
+<h2 align="center">📬 Contact Me</h2>
+
+- ✉️ [Email](mailto:your.email@example.com)
 - 🐙 [GitHub](https://github.com/JaePyJs)
 - 🌐 [Portfolio](https://your-portfolio-link.com)
 - 💬 [Discord](https://discordapp.com/users/898905034107019285)
 
+<details>
+<summary>🔗 <b>Links & Portfolio</b></summary>
+
+- [🌐 Portfolio Website](https://your-portfolio-link.com)
+- [✉️ Email Me](mailto:your.email@example.com)
+- [🐙 GitHub Profile](https://github.com/JaePyJs)
+- [💬 Discord](https://discordapp.com/users/898905034107019285)
+
+</details>
+
 ---
 
 [![Email Me](https://img.shields.io/badge/Email-m23--1470--578@manila.uphsl.edu.ph-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m23-1470-578@manila.uphsl.edu.ph)
+
 ---
 
 > "To live is to suffer, to survive is to find some meaning in the suffering."
