@@ -58,14 +58,6 @@
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaePyJs&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact&show_icons=true&bg_color=00000000" width="45%" />
-  
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=JaePyJs&label=Profile+Views&color=6C5B7B&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<!-- Snake Game -->
-<div align="center">
-  <img src="https://github.com/technologyhell/technologyhell/blob/main/assets/snake.svg" alt="Snake Game" width="100%" />
 </div>
 
 <!-- Achievements -->
@@ -82,24 +74,27 @@
 
 ### 📚 Education Projects
 
-- **Perpetual Help Enrollment System**
-  A comprehensive enrollment system for Perpetual Help College. Features include student registration, course management, and automated scheduling.
-  
-  Tech Stack: Python, Flask, SQLite, HTML/CSS/JS
+[![Perpetual Help Enrollment System](https://img.shields.io/badge/Perpetual%20Help%20Enrollment%20System-355C7D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaePyJs/perpetual-help-enrollment-system)
+
+A comprehensive enrollment system for Perpetual Help College. Features include student registration, course management, and automated scheduling.
+
+Tech Stack: Python, Flask, SQLite, HTML/CSS/JS
 
 ### 🤖 Discord Bots
 
-- **Reddit2Discord Memes Bot**
-  A Discord bot that automatically posts memes from Reddit to Discord channels. Features include automatic posting, custom channel configuration, and meme categorization.
-  
-  Tech Stack: Python, discord.py, praw
+[![Reddit2Discord Memes](https://img.shields.io/badge/Reddit2Discord%20Memes-6C5B7B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaePyJs/reddit2discord-memes)
+
+A Discord bot that automatically posts memes from Reddit to Discord channels. Features include automatic posting, custom channel configuration, and meme categorization.
+
+Tech Stack: Python, discord.py, praw
 
 ### 🌐 Web Applications
 
-- **Mix and Munch Recipe Generator**
-  A web application that generates unique recipes based on user preferences. Features include ingredient selection, cooking time filtering, and nutritional information.
-  
-  Tech Stack: React, Node.js, Express, MongoDB
+[![Mix and Munch: Filipino Recipe Generator](https://img.shields.io/badge/Mix%20and%20Munch-F67280?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaePyJs/mix-and-munch)
+
+A web application that generates unique recipes based on user preferences. Features include ingredient selection, cooking time filtering, and nutritional information.
+
+Tech Stack: React, Node.js, Express, MongoDB
 
 ---
 
