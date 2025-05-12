@@ -10,27 +10,28 @@
 
 ---
 
-<div align="center">
-
 # 🧑‍💻 About Me
 
-🎓 <b>Computer Science student passionate about AI, web dev, and logic programming</b><br>
-🤖 I love building creative solutions and exploring new tech<br>
-🎵 <b>Fun fact:</b> I can do beat box while coding<br>
+🎓 Computer Science student passionate about AI, web dev, and logic programming
+🤖 I love building creative solutions and exploring new tech
+🎵 Fun fact: I can do beat box while coding
 💡 Always learning, always curious
 
 <details>
-  <summary>✨ <b>Click for more fun facts!</b></summary>
-  <ul style="list-style: none; padding: 0;">
-    <li>🎮 I build games and quizzes for fun and learning.</li>
-    <li>🐍 Python is my favorite language.</li>
-    <li>💻 I love vibrant, interactive UIs!</li>
-    <li>🚀 I love launching new side projects!</li>
-    <li>🌏 I enjoy collaborating with developers around the world.</li>
-  </ul>
+  <summary align="center">✨ <b>Click for more fun facts!</b></summary>
+  
+  🎮 I build games and quizzes for fun and learning.
+  
+  🐍 Python is my favorite language.
+  
+  💻 I love vibrant, interactive UIs!
+  
+  🚀 I love launching new side projects!
+  
+  🆕 I'm just a newbie. I also watch anime, read novels, manwha, and manhua.
+
 </details>
 
-</div>
 
 ---
 
@@ -89,7 +90,7 @@
 
 <h2 align="center">🐍 Snake Animation For Fun</h2>
 <p align="center">
-  <img src="https://github.com/JaePyJs/JaePyJs/raw/output/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake">
+  <img src="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake">
 </p>
 <p align="center" style="font-size: 14px;">
   <b>Sources/Credits:</b>
