@@ -13,8 +13,11 @@
 # 🧑‍💻 About Me
 
 🎓 Computer Science student passionate about AI, web dev, and logic programming
+
 🤖 I love building creative solutions and exploring new tech
+
 🎵 Fun fact: I can do beat box while coding
+
 💡 Always learning, always curious
 
 <details>
@@ -32,26 +35,6 @@
 
 </details>
 
-
----
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JaePyJs&theme=radical&no-frame=true&no-bg=true&margin-w=12" alt="trophies"/>
-</p>
-
----
-
-## 🛡️ Badges
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/JaePyJs?label=Follow&style=social" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/JaePyJs/JaePyJs?style=social" alt="GitHub stars"/>
-  <img src="https://img.shields.io/github/forks/JaePyJs/JaePyJs?style=social" alt="GitHub forks"/>
-  <img src="https://komarev.com/ghpvc/?username=JaePyJs&label=Profile+Views&color=6C5B7B&style=flat-square" alt="visitor badge"/>
-</p>
 
 ---
 
@@ -76,6 +59,12 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/></a>
+  <a href="https://clerk.dev/" target="_blank"><img src="https://avatars.githubusercontent.com/u/71596357?s=200&v=4" alt="Clerk" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>
 </p>
 
 ---
