@@ -10,22 +10,14 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=JaePyJs&theme=onedark&no-frame=true&column=7&margin-w=10)
-
----
-
 <div align="center">
 
 # 🧑‍💻 About Me
 
-<ul style="list-style: none; padding: 0;">
-  <li>🎓 <b>Computer Science student passionate about AI, web dev, and logic programming</b></li>
-  <li>🤖 I love building creative solutions and exploring new tech</li>
-  <li>🎵 <b>Fun fact:</b> I can do beat box while coding</li>
-  <li>💡 Always learning, always curious</li>
-</ul>
+🎓 <b>Computer Science student passionate about AI, web dev, and logic programming</b><br>
+🤖 I love building creative solutions and exploring new tech<br>
+🎵 <b>Fun fact:</b> I can do beat box while coding<br>
+💡 Always learning, always curious
 
 <details>
   <summary>✨ <b>Click for more fun facts!</b></summary>
@@ -55,8 +47,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/JaePyJs?label=Follow&style=social" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/JaePyJs?style=social" alt="GitHub stars"/>
-  <img src="https://img.shields.io/github/forks/JaePyJs?style=social" alt="GitHub forks"/>
+  <img src="https://img.shields.io/github/stars/JaePyJs/JaePyJs?style=social" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/forks/JaePyJs/JaePyJs?style=social" alt="GitHub forks"/>
   <img src="https://komarev.com/ghpvc/?username=JaePyJs&label=Profile+Views&color=6C5B7B&style=flat-square" alt="visitor badge"/>
 </p>
 
@@ -106,12 +98,6 @@
 ---
 
 <h2 align="center">📈 GitHub Stats</h2>
-
-![JaePyJs's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaePyJs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaePyJs&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=JaePyJs&theme=radical)](https://git.io/streak-stats)
-
----
 
 <h2 align="center">✨ Choose Your Path</h2>
 
