@@ -63,7 +63,7 @@
 <!-- Achievements -->
 <div align="center">
   <h2>🏆 Achievements</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=JaePyJs&theme=aura&no-bg=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JaePyJs&theme=aura&hide_border=true&bg_color=00000000" width="100%" />
 </div>
 
 ---
