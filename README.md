@@ -50,23 +50,11 @@
 
 <!-- Stats -->
 <div align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JaePyJs&theme=aura&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000" width="55%" />
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaePyJs&theme=aura&hide_border=true&bg_color=00000000" width="45%" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaePyJs&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact&show_icons=true&bg_color=00000000" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JaePyJs&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaePyJs&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Streak" width="48%" />
 </div>
 
-<!-- Achievements -->
-<div align="center">
-  <h2>🏆 Achievements</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=JaePyJs&theme=aura&hide_border=true&bg_color=00000000&title_color=8A2BE2&text_color=FFD700&no-bg=true&color=8A2BE2,FFD700" width="100%" />
-</div>
 
----
 
 <div align="center">
   <h2>🚀 Projects</h2>
@@ -151,9 +139,11 @@ Tech Stack: React, Node.js, Express, MongoDB
 
 <h2 align="center">📬 Contact Me</h2>
 
-- ✉️ [Email](mailto:jmbarron0@gmail.com)
-- 🐙 [GitHub](https://github.com/JaePyJs)
-- 💬 [Discord](https://discordapp.com/users/898905034107019285)
+<p align="center">
+  <a href="mailto:jmbarron0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/JaePyJs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://discordapp.com/users/898905034107019285"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+</p>
 
 ---
 
