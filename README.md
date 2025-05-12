@@ -98,14 +98,18 @@
 
 ---
 
-<h2 align="center">🐍 Snake Animation For Fun</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <h2>🐍 Snake Animation For Fun</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-_generated with [Platane/snk](https://github.com/Platane/snk) and inspired by [technologyhell](https://github.com/technologyhell) and [salesp07](https://github.com/salesp07/salesp07)_
+<div align="center">
+  _generated with [Platane/snk](https://github.com/Platane/snk) and inspired by [technologyhell](https://github.com/technologyhell) and [salesp07](https://github.com/salesp07/salesp07)_
+</div>
 
 ---
 
