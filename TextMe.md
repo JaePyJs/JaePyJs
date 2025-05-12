@@ -2,7 +2,7 @@
 
 Hey! Want to get in touch?
 
-- 📧 Email: [m23-1470-578@manila.uphsl.edu.ph](mailto:m23-1470-578@manila.uphsl.edu.ph)
+- 📧 Email: [jmbarron0@gmail.com](mailto:jmbarron0@gmail.com)
 - 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
 - 📝 Or open an issue on this repo!
 
