@@ -45,6 +45,13 @@
 
 <h2 align="center">✨ Choose Your Path</h2>
 
+- [🚀 Projects](#-projects)
+- [🛠️ Tech Stack](#-tech-stack)
+- [🌱 Currently Learning](#-currently-learning)
+- [🎮 Fun Fact](#-about-me)
+- [🌐 Portfolio Website](https://your-portfolio-link.com)
+- [📬 Contact Me](./TextMe.md)
+
 ---
 
 <h2 align="center">🚀 Projects</h2>
@@ -97,26 +104,14 @@ _generated with [Platane/snk](https://github.com/Platane/snk) and inspired by [t
 
 ---
 
-<h2 align="center">📬 Contact Me & Links</h2>
 
-- ✉️ [Email](mailto:jmbarron0@gmail.com)
 
 <h2 align="center">📬 Contact Me</h2>
 
-- ✉️ [Email](mailto:your.email@example.com)
+- ✉️ [Email](mailto:jmbarron0@gmail.com)
 - 🐙 [GitHub](https://github.com/JaePyJs)
 - 🌐 [Portfolio](https://your-portfolio-link.com)
 - 💬 [Discord](https://discordapp.com/users/898905034107019285)
-
-<details>
-<summary>🔗 <b>Links & Portfolio</b></summary>
-
-- [🌐 Portfolio Website](https://your-portfolio-link.com)
-- [✉️ Email Me](mailto:your.email@example.com)
-- [🐙 GitHub Profile](https://github.com/JaePyJs)
-- [💬 Discord](https://discordapp.com/users/898905034107019285)
-
-</details>
 
 ---
 
