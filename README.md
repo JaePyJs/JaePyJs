@@ -87,12 +87,15 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">🐍 Snake Animation For Fun</h2>
 <p align="center">
   <img src="https://github.com/JaePyJs/JaePyJs/raw/output/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake">
 </p>
-<p align="center">
-  <a href="https://github.com/Platane/snk" target="_blank">Generated with Platane/snk</a>
+<p align="center" style="font-size: 14px;">
+  <b>Sources/Credits:</b>
+  <a href="https://github.com/Platane/snk" target="_blank">Platane/snk</a> |
+  <a href="https://github.com/salesp07/salesp07" target="_blank">salesp07 GitHub Profile</a> |
+  <a href="https://technologyhellyt.blogspot.com/2024/10/snake-game-on-github-profile.html" target="_blank">technologyhellyt blog post</a>
 </p>
 
 ---
