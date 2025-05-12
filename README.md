@@ -94,4 +94,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk) and inspired by [t
 
 ---
 
+[![Email Me](https://img.shields.io/badge/Email-m23--1470--578@manila.uphsl.edu.ph-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m23-1470-578@manila.uphsl.edu.ph)
+---
+
 > "To live is to suffer, to survive is to find some meaning in the suffering."
