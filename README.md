@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20JaePyJs!%20👋&fontAlign=50&fontAlignY=40&fontSize=40&desc=Computer%20Science%20student%20passionate%20about%20AI%2C%20web%20dev%2C%20and%20logic%20programming&descAlign=50&descAlignY=60&animation=twinkling&customColorList=F67280,C06C84,6C5B7B,355C7D" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Jae!%20👋&fontAlign=50&fontAlignY=40&fontSize=40&desc=Computer%20Science%20student%20passionate%20about%20AI%2C%20web%20dev%2C%20and%20logic%20programming&descAlign=50&descAlignY=60&animation=twinkling&customColorList=F67280,C06C84,6C5B7B,355C7D" alt="Banner" />
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F67280&center=true&vCenter=true&width=435&lines=Welcome!+I'm+Jae;I+love+Python;That's+all..." alt="Typing SVG" />
   
