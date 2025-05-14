@@ -200,7 +200,6 @@
     <a href="https://www.notion.so/" target="_blank">
       <img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" alt="Notion" width="40" height="40"/>
     </a>
-
     <!-- Programming Languages -->
     <a href="https://reactjs.org/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
