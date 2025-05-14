@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Jae!%20👋&fontAlign=50&fontAlignY=40&fontSize=40&desc=CS%20Student%20|%20I%20Love%20Cooking%20My%20Code%20%F0%9F%8D%94%F0%9F%92%BB&descAlign=50&descAlignY=65" alt="Banner">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F67280&center=true&vCenter=true&width=435&lines=Welcome!+I'm+Jae;I+Like+Boku+no+I+mean+Anime;Uhmm+yes+I+Didn't+type+;That's+all..." alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F67280&center=true&vCenter=true&width=435&height=50&lines=Welcome!+I'm+Jae;I+Like+Boku+no+I+mean+Anime;Uhmm+yes+I+Didn't+typo;That's+all..." alt="Typing SVG">
 </div>
 
 <div align="left">
