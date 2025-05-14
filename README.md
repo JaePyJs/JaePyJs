@@ -102,29 +102,6 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
   </a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60"/>
-  </a>
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### 🌟 Main Stacks
-<div align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-  </a>
   <a href="https://github.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
   </a>
@@ -165,10 +142,10 @@
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Adobe Photoshop" width="40" height="40"/>
     </a>
     <a href="https://www.canva.com/" target="_blank">
-      <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva" width="40" height="40"/>
+      <img src="https://seeklogo.com/images/C/canva-logo-49A4D81B4F-seeklogo.com.png" alt="Canva" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank">
-      <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
+      <img src="https://seeklogo.com/images/A/adobe-xd-logo-FDC1F4F99E-seeklogo.com.png" alt="Adobe XD" width="40" height="40"/>
     </a>
     <a href="https://www.postman.com/" target="_blank">
       <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/>
@@ -183,7 +160,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESLint" width="40" height="40"/>
     </a>
     <a href="https://prettier.io/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" alt="Prettier" width="40" height="40"/>
+      <img src="https://seeklogo.com/images/P/prettier-logo-B94D8D6D1D-seeklogo.com.png" alt="Prettier" width="40" height="40"/>
     </a>
     <a href="https://github.com/features/actions" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="40" height="40"/>
@@ -195,10 +172,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
     </a>
     <a href="https://sentry.io/" target="_blank">
-      <img src="https://cdn.worldvectorlogo.com/logos/sentry-io.svg" alt="Sentry" width="40" height="40"/>
+      <img src="https://seeklogo.com/images/S/sentry-logo-CA7E6A3A31-seeklogo.com.png" alt="Sentry" width="40" height="40"/>
     </a>
     <a href="https://www.notion.so/" target="_blank">
-      <img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" alt="Notion" width="40" height="40"/>
+      <img src="https://seeklogo.com/images/N/notion-logo-4CE3A66E22-seeklogo.com.png" alt="Notion" width="40" height="40"/>
     </a>
     <!-- Programming Languages -->
     <a href="https://reactjs.org/" target="_blank">
