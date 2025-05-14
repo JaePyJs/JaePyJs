@@ -7,7 +7,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<h2 align="left">✨ Choose Your Path</h2>
+✨ Choose Your Path
+
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
+</div>
 
 - [🚀 Projects](#projects)
 - [🛠️ Tech Stack](#tech-stack)
@@ -19,7 +23,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
 </div>
 
-<h2 align="left">🧑‍💻 About Me</h2>
+🧑‍💻 About Me
+
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
+</div>
 
 🤖 I love building creative solutions and exploring new tech. <br>
 
@@ -34,7 +42,7 @@
 </div>
 
 ### 🎵 Now Playing on Spotify
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=4p3os0gm66dpm0g3l8wqd1ypk&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=4p3os0gm66dpm0g3l8wqd1ypk&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true&card=true)
 
 <div align="left">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
@@ -73,7 +81,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
 </div>
 
-<h2 align="left">🚀 Projects</h2>
+🚀 Projects
+
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
+</div>
 
 <details>
   <summary><b>📚 Education Projects</b></summary>
@@ -109,7 +121,12 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
 </div>
 
-<h2 align="left">🛠️ Tech Stack</h2>
+🛠️ Tech Stack
+
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
+</div>
+
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -141,13 +158,23 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   </a>
+  <a href="https://supabase.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/supabase.png" alt="Supabase" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  </a>
 </p>
 
 <div align="left">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
 </div>
 
-<h2 align="left">🌱 Currently Learning</h2>
+🌱 Currently Learning
+
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
+</div>
 
 - Next.js
 - AI/ML fundamentals
@@ -159,7 +186,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
 </div>
 
-<h2 align="left" id="-contact-me">📬 Contact Me</h2>
+📬 Contact Me
+
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
+</div>
 
 <p align="left">
   <a href="mailto:jmbarron0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
