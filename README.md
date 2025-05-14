@@ -29,7 +29,9 @@
 
 ⌨️ Computer Science Student.
 
----
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ### 🎵 Now Playing on Spotify
 ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=4p3os0gm66dpm0g3l8wqd1ypk&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)
@@ -44,15 +46,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JaePyJs&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%">
 </div>
 
----
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-### 🐍 GitHub Activity Graph
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=JaePyJs&theme=react-dark)
+### 🐙 GitHub Contribution Graph
+[![JaePyJs's GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=JaePyJs&show_icons=true&count_private=true&theme=radical)](https://github.com/JaePyJs)
 
 <div align="left">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
 </div>
 
+### 🐍 Snake Animation For Fun
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/dist/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/dist/github-contribution-grid-snake.svg">
