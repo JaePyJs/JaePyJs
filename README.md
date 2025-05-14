@@ -160,7 +160,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESLint" width="40" height="40"/>
     </a>
     <a href="https://prettier.io/" target="_blank">
-      <img src="https://images.seeklogo.com/logo-png/32/1/prettier-logo-png_seeklogo-323876.png" alt="Prettier" width="40" height="40"/>
+      <img src="https://brandslogos.com/wp-content/uploads/images/large/prettier-logo.png" alt="Prettier" width="40" height="40"/>
     </a>
     <a href="https://github.com/features/actions" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="40" height="40"/>
@@ -172,7 +172,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
     </a>
     <a href="https://sentry.io/" target="_blank">
-      <img src="https://images.seeklogo.com/logo-png/39/1/sentry-logo-png_seeklogo-394621.png" alt="Sentry" width="40" height="40"/>
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/sentry-3-logo-png-transparent.png" alt="Sentry" width="40" height="40"/>
     </a>
     <a href="https://www.notion.so/" target="_blank">
       <img src="https://www.svgrepo.com/show/361558/notion-logo.svg" alt="Notion" width="40" height="40"/>
