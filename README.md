@@ -50,13 +50,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-### 🐙 GitHub Contribution Graph
-[![JaePyJs's GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=JaePyJs&show_icons=true&count_private=true&theme=radical)](https://github.com/JaePyJs)
-
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
-</div>
-
 ### 🐍 Snake Animation For Fun
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/dist/github-contribution-grid-snake-dark.svg">
@@ -64,6 +57,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/dist/github-contribution-grid-snake.svg">
 </picture>
 <br>
+
 <p>
   Generated with <a href="https://github.com/Platane/snk">Platane/snk</a>.
 </p>
