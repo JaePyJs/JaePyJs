@@ -33,13 +33,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
 </div>
 
-## 🎵 Now Playing on Spotify
-![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=4p3os0gm66dpm0g3l8wqd1ypk&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color_cover=true&bar_color=871212)
-
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
-</div>
-
 ## ⚡ Stats ⚡
 
 <div align="left">
@@ -171,4 +164,17 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
 </div>
 
-> "To live is to suffer, to survive is to find some meaning in the suffering."
+<div align="center">
+  <table>
+    <tr>
+      <!-- Spotify Widget -->
+      <td>
+        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=4p3os0gm66dpm0g3l8wqd1ypk&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color_cover=true&bar_color=871212" alt="Now Playing on Spotify"/>
+      </td>
+      <!-- Quote Widget -->
+      <td>
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day"/>
+      </td>
+    </tr>
+  </table>
+</div>
