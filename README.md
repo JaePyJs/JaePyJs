@@ -1,33 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Jae!%20👋&fontAlign=50&fontAlignY=40&fontSize=40&desc=Computer%20Science%20Student%20and%20Tech%20Enthusiast" alt="Header Image">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F67280&center=true&vCenter=true&width=435&lines=Welcome!+I'm+Jae;I+love+Python;That's+all..." alt="Typing Animation">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Jae!%20👋&fontAlign=50&fontAlignY=40&fontSize=40&desc=Computer%20Science%20Student" alt="Header">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F67280&center=true&vCenter=true&width=435&lines=Welcome!+I'm+Jae;I+love+Python;That's+all..." alt="Typing SVG">
 </div>
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
 </div>
 
-✨ Choose Your Path
+## ✨ Choose Your Path
+
+- [🚀 Projects](#-projects)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [🌱 Currently Learning](#-currently-learning)
+- [🎮 Fun Fact](#-about-me)
+- [📬 Contact Me](#-contact-me)
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
 </div>
 
-- [🚀 Projects](#projects)
-- [🛠️ Tech Stack](#tech-stack)
-- [🌱 Currently Learning](#currently-learning)
-- [🎮 Fun Fact](#about-me)
-- [📬 Contact Me](#contact-me)
-
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
-</div>
-
-🧑‍💻 About Me
-
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
-</div>
+## 🧑‍💻 About Me
 
 🤖 I love building creative solutions and exploring new tech. <br>
 
@@ -38,54 +30,43 @@
 ⌨️ Computer Science Student.
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
 </div>
 
-### 🎵 Now Playing on Spotify
+## 🎵 Now Playing on Spotify
 ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=4p3os0gm66dpm0g3l8wqd1ypk&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true&card=true)
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
 </div>
 
-<h2 align="left">⚡ Stats ⚡</h2>
+## ⚡ Stats ⚡
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JaePyJs&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%">
 </div>
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
 </div>
 
-### 🐍 Snake Animation For Fun
-
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
-</div>
+## 🐍 Snake Animation For Fun
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-<br>
 
 <p>
   Generated with <a href="https://github.com/Platane/snk">Platane/snk</a>.
 </p>
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
 </div>
 
-🚀 Projects
-
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
-</div>
+## 🚀 Projects
 
 <details>
   <summary><b>📚 Education Projects</b></summary>
@@ -118,14 +99,10 @@
 </details>
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
 </div>
 
-🛠️ Tech Stack
-
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
-</div>
+## 🛠️ Tech Stack
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
@@ -167,14 +144,10 @@
 </p>
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
 </div>
 
-🌱 Currently Learning
-
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
-</div>
+## 🌱 Currently Learning
 
 - Next.js
 - AI/ML fundamentals
@@ -183,14 +156,10 @@
 - Logic Programming
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
 </div>
 
-📬 Contact Me
-
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
-</div>
+## 📬 Contact Me
 
 <p align="left">
   <a href="mailto:jmbarron0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -199,7 +168,7 @@
 </p>
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
 </div>
 
 > "To live is to suffer, to survive is to find some meaning in the suffering."
