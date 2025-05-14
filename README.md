@@ -32,7 +32,7 @@
 ---
 
 ### 🎵 Now Playing on Spotify
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=4p3os0gm66dpm0g3l8wqd1ypk&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)
 
 <div align="left">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
@@ -52,6 +52,17 @@
 <div align="left">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
 </div>
+
+### 🐍 Snake Animation For Fun
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/dist/github-contribution-grid-snake.svg">
+</picture>
+<br>
+<p>
+  Generated with <a href="https://github.com/Platane/snk">Platane/snk</a>.
+</p>
 
 <h2 align="left">🚀 Projects</h2>
 
