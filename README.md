@@ -33,7 +33,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
 </div>
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=4p3os0gm66dpm0g3l8wqd1ypk&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=4p3os0gm66dpm0g3l8wqd1ypk&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color_cover=true&bar_color=871212)]]
+## 🎵 Now Playing on Spotify
+![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=4p3os0gm66dpm0g3l8wqd1ypk&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color_cover=true&bar_color=871212)
+
 <div align="left">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
 </div>
