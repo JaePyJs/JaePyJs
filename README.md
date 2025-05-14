@@ -3,9 +3,6 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F67280&center=true&vCenter=true&width=435&lines=Welcome!+I'm+Jae;I+love+Python;That's+all..." alt="Typing SVG" />
 
-  <p style="text-align: center;">
-    <img src="https://komarev.com/ghpvc/?username=JaePyJs&label=Visitors&color=6C5B7B&style=flat-square" alt="Visitor badge" />
-  </p>
 </div>
 
 <div align="left">
@@ -57,9 +54,13 @@
 <div align="left">
   <h2>⚡ Stats ⚡</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=JaePyJs&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" style="margin-bottom: 10px;" />
-  <img src="https://streak-stats.demolab.com/?user=JaePyJs&theme=radical&count_private=true&include_all_commits=true&v=1" alt="GitHub Streak" width="48%" style="margin-bottom: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaePyJs&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" style="margin-bottom: 10px;" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaePyJs&theme=radical&count_private=true&include_all_commits=true&layout=compact&show_icons=true" alt="Top Languages" width="48%" />
+</div>
+
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator">
 </div>
 
 <div align="left">
