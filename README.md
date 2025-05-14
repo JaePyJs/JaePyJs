@@ -142,10 +142,10 @@
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Adobe Photoshop" width="40" height="40"/>
     </a>
     <a href="https://www.canva.com/" target="_blank">
-      <img src="https://seeklogo.com/images/C/canva-logo-49A4D81B4F-seeklogo.com.png" alt="Canva" width="40" height="40"/>
+      <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" alt="Canva" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank">
-      <img src="https://seeklogo.com/images/A/adobe-xd-logo-FDC1F4F99E-seeklogo.com.png" alt="Adobe XD" width="40" height="40"/>
+      <img src="https://www.svgrepo.com/show/303109/adobe-xd-logo.svg" alt="Adobe XD" width="40" height="40"/>
     </a>
     <a href="https://www.postman.com/" target="_blank">
       <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/>
@@ -160,7 +160,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESLint" width="40" height="40"/>
     </a>
     <a href="https://prettier.io/" target="_blank">
-      <img src="https://seeklogo.com/images/P/prettier-logo-B94D8D6D1D-seeklogo.com.png" alt="Prettier" width="40" height="40"/>
+      <img src="https://images.seeklogo.com/logo-png/32/1/prettier-logo-png_seeklogo-323876.png" alt="Prettier" width="40" height="40"/>
     </a>
     <a href="https://github.com/features/actions" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="40" height="40"/>
@@ -172,10 +172,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
     </a>
     <a href="https://sentry.io/" target="_blank">
-      <img src="https://seeklogo.com/images/S/sentry-logo-CA7E6A3A31-seeklogo.com.png" alt="Sentry" width="40" height="40"/>
+      <img src="https://images.seeklogo.com/logo-png/39/1/sentry-logo-png_seeklogo-394621.png" alt="Sentry" width="40" height="40"/>
     </a>
     <a href="https://www.notion.so/" target="_blank">
-      <img src="https://seeklogo.com/images/N/notion-logo-4CE3A66E22-seeklogo.com.png" alt="Notion" width="40" height="40"/>
+      <img src="https://www.svgrepo.com/show/361558/notion-logo.svg" alt="Notion" width="40" height="40"/>
     </a>
     <!-- Programming Languages -->
     <a href="https://reactjs.org/" target="_blank">
