@@ -154,6 +154,8 @@ Tech Stack: React, Node.js, Express, MongoDB.
   </tr>
 </table>
 
+<br><br><br><br>
+
 ### 🌐 Frontend Development
 
 <table align="left">
@@ -187,6 +189,8 @@ Tech Stack: React, Node.js, Express, MongoDB.
     </td>
   </tr>
 </table>
+
+<br><br><br><br>
 
 ### 🔧 Backend & Server
 
@@ -222,6 +226,8 @@ Tech Stack: React, Node.js, Express, MongoDB.
   </tr>
 </table>
 
+<br><br><br><br>
+
 ### 🗄️ Databases
 
 <table align="left">
@@ -246,6 +252,8 @@ Tech Stack: React, Node.js, Express, MongoDB.
     </td>
   </tr>
 </table>
+
+<br><br><br><br>
 
 ### 🔗 APIs & Libraries
 
@@ -272,6 +280,8 @@ Tech Stack: React, Node.js, Express, MongoDB.
   </tr>
 </table>
 
+<br><br><br><br>
+
 ### 🛠️ Tools & Version Control
 
 <table align="left">
@@ -287,6 +297,8 @@ Tech Stack: React, Node.js, Express, MongoDB.
     </td>
   </tr>
 </table>
+
+<br><br><br>
 
 <div align="left">
   <em>🎯 As a student developer, I'm actively learning and growing my expertise in these technologies through hands-on projects and continuous practice!</em>
