@@ -14,9 +14,7 @@
 - [⚡ Stats ⚡](#-stats-)
 - [🐍 Snake Animation For Fun](#-snake-animation-for-fun)
 - [🚀 Projects](#-projects)
-- [💻 Languages \& Tools I Use](#-languages--tools-i-use)
-  - [Programming Languages](#programming-languages)
-  - [Development Tools](#development-tools)
+- [�️ Tech Stack](#️-tech-stack)
 - [🌱 Currently Learning](#-currently-learning)
 - [📬 Contact Me](#-contact-me)
 
@@ -26,13 +24,15 @@
 
 ## 🧑‍💻 About Me
 
-🤖 I love building creative solutions and exploring new tech. <br>
+👨‍🎓 **Computer Science Student** on an exciting learning journey! I'm actively developing my skills across multiple technologies and frameworks. <br>
+
+🌱 **Always Learning:** Every project is a new opportunity to grow. I'm passionate about exploring different technologies and understanding how they work together to build amazing solutions. <br>
+
+🤖 I love building creative solutions and experimenting with new tech - from web applications to Discord bots! <br>
 
 🎵 Fun fact: I can beatbox while coding. <br>
 
-💡 Always learning, always curious. <br>
-
-⌨️ Computer Science Student.
+💡 **Growth Mindset:** While my knowledge in these technologies is still developing, I'm committed to continuous learning and improvement. Each challenge helps me become a better developer.
 
 <div align="left">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
@@ -103,10 +103,9 @@ Tech Stack: React, Node.js, Express, MongoDB.
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
 </div>
 
-## 💻 Languages & Tools I Use
+## 🛠️ Tech Stack
 
-### Programming Languages
-
+### 💻 Programming Languages
 <table align="center">
   <tr>
     <td align="center">
@@ -116,25 +115,7 @@ Tech Stack: React, Node.js, Express, MongoDB.
       <br>
       <strong>Python</strong>
       <br>
-      <sub>Data & Automation</sub>
-    </td>
-    <td align="center">
-      <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>
-      </a>
-      <br>
-      <strong>C</strong>
-      <br>
-      <sub>Systems Programming</sub>
-    </td>
-    <td align="center">
-      <a href="https://isocpp.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
-      </a>
-      <br>
-      <strong>C++</strong>
-      <br>
-      <sub>Performance-Critical Apps</sub>
+      <sub>🤖 Automation & Backend</sub>
     </td>
     <td align="center">
       <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
@@ -143,13 +124,144 @@ Tech Stack: React, Node.js, Express, MongoDB.
       <br>
       <strong>JavaScript</strong>
       <br>
-      <sub>Web Development</sub>
+      <sub>🌐 Web Development</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>
+      </a>
+      <br>
+      <strong>C</strong>
+      <br>
+      <sub>⚡ Systems Programming</sub>
+    </td>
+    <td align="center">
+      <a href="https://isocpp.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+      </a>
+      <br>
+      <strong>C++</strong>
+      <br>
+      <sub>🚀 Performance-Critical Apps</sub>
     </td>
   </tr>
 </table>
 
-### Development Tools
+### 🌐 Frontend Development
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+      </a>
+      <br>
+      <strong>HTML5</strong>
+      <br>
+      <sub>📄 Web Structure</sub>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+      </a>
+      <br>
+      <strong>CSS3</strong>
+      <br>
+      <sub>🎨 Web Styling</sub>
+    </td>
+    <td align="center">
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+      </a>
+      <br>
+      <strong>React</strong>
+      <br>
+      <sub>⚛️ UI Framework</sub>
+    </td>
+  </tr>
+</table>
 
+### 🔧 Backend & Server
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+      </a>
+      <br>
+      <strong>Node.js</strong>
+      <br>
+      <sub>🟢 JavaScript Runtime</sub>
+    </td>
+    <td align="center">
+      <a href="https://expressjs.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="60" height="60"/>
+      </a>
+      <br>
+      <strong>Express.js</strong>
+      <br>
+      <sub>🚂 Web Framework</sub>
+    </td>
+    <td align="center">
+      <a href="https://flask.palletsprojects.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="60" height="60"/>
+      </a>
+      <br>
+      <strong>Flask</strong>
+      <br>
+      <sub>🐍 Python Web Framework</sub>
+    </td>
+  </tr>
+</table>
+
+### 🗄️ Databases
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
+      </a>
+      <br>
+      <strong>MongoDB</strong>
+      <br>
+      <sub>🍃 NoSQL Database</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.sqlite.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="60" height="60"/>
+      </a>
+      <br>
+      <strong>SQLite</strong>
+      <br>
+      <sub>💾 Lightweight Database</sub>
+    </td>
+  </tr>
+</table>
+
+### 🔗 APIs & Libraries
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://discordpy.readthedocs.io/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="discord.py" width="60" height="60"/>
+      </a>
+      <br>
+      <strong>discord.py</strong>
+      <br>
+      <sub>🤖 Discord Bot Development</sub>
+    </td>
+    <td align="center">
+      <a href="https://praw.readthedocs.io/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddit/reddit-original.svg" alt="praw" width="60" height="60"/>
+      </a>
+      <br>
+      <strong>PRAW</strong>
+      <br>
+      <sub>🔴 Reddit API Wrapper</sub>
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Tools & Version Control
 <table align="center">
   <tr>
     <td align="center">
@@ -159,10 +271,14 @@ Tech Stack: React, Node.js, Express, MongoDB.
       <br>
       <strong>Git</strong>
       <br>
-      <sub>Version Control</sub>
+      <sub>📝 Version Control</sub>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <em>🎯 As a student developer, I'm actively learning and growing my expertise in these technologies through hands-on projects and continuous practice!</em>
+</div>
 
 <div align="left">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">

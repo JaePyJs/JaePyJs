@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150" height="150" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
+  <!-- Trophy Base -->
+  <path d="M75 100 L65 115 L85 115 L75 100 Z" fill="#8A2BE2"/>
+  <path d="M75 100 L65 115 L65 135 L85 135 L85 115 L75 100 Z" fill="#FFD700"/>
+  
+  <!-- Trophy Body -->
+  <path d="M75 50 Q60 70 75 90 Q90 70 75 50" fill="#8A2BE2"/>
+  <path d="M75 50 Q60 70 75 90 Q90 70 75 50" stroke="#FFD700" stroke-width="2" fill="none"/>
+  
+  <!-- Trophy Top -->
+  <path d="M75 30 Q65 45 75 60 Q85 45 75 30" fill="#FFD700"/>
+  <path d="M75 30 Q65 45 75 60 Q85 45 75 30" stroke="#8A2BE2" stroke-width="2" fill="none"/>
+  
+  <!-- Title -->
+  <text x="75" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="bold" font-size="13" fill="#8A2BE2">Experience</text>
+  
+  <!-- Subtitle -->
+  <text x="75" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="bold" font-size="10.5" fill="#FFD700">Intermediate Dev</text>
+</svg>
