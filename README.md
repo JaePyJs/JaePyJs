@@ -14,7 +14,13 @@
 - [⚡ Stats ⚡](#-stats-)
 - [🐍 Snake Animation For Fun](#-snake-animation-for-fun)
 - [🚀 Projects](#-projects)
-- [�️ Tech Stack](#️-tech-stack)
+- [🛠️ Tech Stack](#️-tech-stack)
+  - [💻 Programming Languages](#-programming-languages)
+  - [🌐 Frontend Development](#-frontend-development)
+  - [🔧 Backend \& Server](#-backend--server)
+  - [🗄️ Databases](#️-databases)
+  - [🔗 APIs \& Libraries](#-apis--libraries)
+  - [🛠️ Tools \& Version Control](#️-tools--version-control)
 - [🌱 Currently Learning](#-currently-learning)
 - [📬 Contact Me](#-contact-me)
 
@@ -106,9 +112,10 @@ Tech Stack: React, Node.js, Express, MongoDB.
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-<table align="center">
+
+<table align="left">
   <tr>
-    <td align="center">
+    <td align="left">
       <a href="https://www.python.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
       </a>
@@ -117,7 +124,7 @@ Tech Stack: React, Node.js, Express, MongoDB.
       <br>
       <sub>🤖 Automation & Backend</sub>
     </td>
-    <td align="center">
+    <td align="left">
       <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
       </a>
@@ -126,7 +133,7 @@ Tech Stack: React, Node.js, Express, MongoDB.
       <br>
       <sub>🌐 Web Development</sub>
     </td>
-    <td align="center">
+    <td align="left">
       <a href="https://www.cprogramming.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>
       </a>
@@ -135,7 +142,7 @@ Tech Stack: React, Node.js, Express, MongoDB.
       <br>
       <sub>⚡ Systems Programming</sub>
     </td>
-    <td align="center">
+    <td align="left">
       <a href="https://isocpp.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
       </a>
@@ -148,9 +155,10 @@ Tech Stack: React, Node.js, Express, MongoDB.
 </table>
 
 ### 🌐 Frontend Development
-<table align="center">
+
+<table align="left">
   <tr>
-    <td align="center">
+    <td align="left">
       <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
       </a>
@@ -159,7 +167,7 @@ Tech Stack: React, Node.js, Express, MongoDB.
       <br>
       <sub>📄 Web Structure</sub>
     </td>
-    <td align="center">
+    <td align="left">
       <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
       </a>
@@ -168,7 +176,7 @@ Tech Stack: React, Node.js, Express, MongoDB.
       <br>
       <sub>🎨 Web Styling</sub>
     </td>
-    <td align="center">
+    <td align="left">
       <a href="https://reactjs.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
       </a>
@@ -181,9 +189,10 @@ Tech Stack: React, Node.js, Express, MongoDB.
 </table>
 
 ### 🔧 Backend & Server
-<table align="center">
+
+<table align="left">
   <tr>
-    <td align="center">
+    <td align="left">
       <a href="https://nodejs.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
       </a>
@@ -192,7 +201,7 @@ Tech Stack: React, Node.js, Express, MongoDB.
       <br>
       <sub>🟢 JavaScript Runtime</sub>
     </td>
-    <td align="center">
+    <td align="left">
       <a href="https://expressjs.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="60" height="60"/>
       </a>
@@ -201,7 +210,7 @@ Tech Stack: React, Node.js, Express, MongoDB.
       <br>
       <sub>🚂 Web Framework</sub>
     </td>
-    <td align="center">
+    <td align="left">
       <a href="https://flask.palletsprojects.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="60" height="60"/>
       </a>
@@ -214,9 +223,10 @@ Tech Stack: React, Node.js, Express, MongoDB.
 </table>
 
 ### 🗄️ Databases
-<table align="center">
+
+<table align="left">
   <tr>
-    <td align="center">
+    <td align="left">
       <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
       </a>
@@ -225,7 +235,7 @@ Tech Stack: React, Node.js, Express, MongoDB.
       <br>
       <sub>🍃 NoSQL Database</sub>
     </td>
-    <td align="center">
+    <td align="left">
       <a href="https://www.sqlite.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="60" height="60"/>
       </a>
@@ -238,9 +248,10 @@ Tech Stack: React, Node.js, Express, MongoDB.
 </table>
 
 ### 🔗 APIs & Libraries
-<table align="center">
+
+<table align="left">
   <tr>
-    <td align="center">
+    <td align="left">
       <a href="https://discordpy.readthedocs.io/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="discord.py" width="60" height="60"/>
       </a>
@@ -249,7 +260,7 @@ Tech Stack: React, Node.js, Express, MongoDB.
       <br>
       <sub>🤖 Discord Bot Development</sub>
     </td>
-    <td align="center">
+    <td align="left">
       <a href="https://praw.readthedocs.io/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddit/reddit-original.svg" alt="praw" width="60" height="60"/>
       </a>
@@ -262,9 +273,10 @@ Tech Stack: React, Node.js, Express, MongoDB.
 </table>
 
 ### 🛠️ Tools & Version Control
-<table align="center">
+
+<table align="left">
   <tr>
-    <td align="center">
+    <td align="left">
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
       </a>
@@ -276,7 +288,7 @@ Tech Stack: React, Node.js, Express, MongoDB.
   </tr>
 </table>
 
-<div align="center">
+<div align="left">
   <em>🎯 As a student developer, I'm actively learning and growing my expertise in these technologies through hands-on projects and continuous practice!</em>
 </div>
 
@@ -308,7 +320,7 @@ Tech Stack: React, Node.js, Express, MongoDB.
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
 </div>
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <!-- Spotify Widget -->
