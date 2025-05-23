@@ -253,7 +253,7 @@ Tech Stack: React, Node.js, Express, MongoDB.
   <tr>
     <td align="left">
       <a href="https://discordpy.readthedocs.io/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="discord.py" width="60" height="60"/>
+        <img src="https://github.com/devicons/devicon/blob/master/docs/assets/css/discord-logo.svg" alt="discord.py" width="60" height="60"/>
       </a>
       <br>
       <strong>discord.py</strong>
@@ -262,7 +262,7 @@ Tech Stack: React, Node.js, Express, MongoDB.
     </td>
     <td align="left">
       <a href="https://praw.readthedocs.io/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddit/reddit-original.svg" alt="praw" width="60" height="60"/>
+        <img src="https://avatars.githubusercontent.com/u/1696888?s=200&v=4" alt="praw" width="60" height="60"/>
       </a>
       <br>
       <strong>PRAW</strong>
