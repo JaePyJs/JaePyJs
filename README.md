@@ -9,7 +9,6 @@
 
 ## ✨ Choose Your Path
 
-- [✨ Choose Your Path](#-choose-your-path)
 - [🧑‍💻 About Me](#-about-me)
 - [⚡ Stats ⚡](#-stats-)
 - [🐍 Snake Animation For Fun](#-snake-animation-for-fun)
