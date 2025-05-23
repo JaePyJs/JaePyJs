@@ -15,6 +15,12 @@
 - [🐍 Snake Animation For Fun](#-snake-animation-for-fun)
 - [🚀 Projects](#-projects)
 - [🛠️ Tech Stack](#️-tech-stack)
+  - [💻 Programming Languages](#-programming-languages)
+  - [🌐 Frontend Development](#-frontend-development)
+  - [🔧 Backend \& Server](#-backend--server)
+  - [🗄️ Databases](#️-databases)
+  - [🔗 APIs \& Libraries](#-apis--libraries)
+  - [🛠️ Tools \& Version Control](#️-tools--version-control)
 - [🌱 Currently Learning](#-currently-learning)
 - [📬 Contact Me](#-contact-me)
 
@@ -105,9 +111,7 @@ Tech Stack: React, Node.js, Express, MongoDB.
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <h3>💻 Programming Languages</h3>
-</div>
+### 💻 Programming Languages
 
 <table align="left">
   <tr>
@@ -150,11 +154,9 @@ Tech Stack: React, Node.js, Express, MongoDB.
   </tr>
 </table>
 
-<div style="clear: both; margin-bottom: 40px;"></div>
+<br><br><br><br><br>
 
-<div align="center">
-  <h3>🌐 Frontend Development</h3>
-</div>
+### 🌐 Frontend Development
 
 <table align="left">
   <tr>
@@ -188,11 +190,9 @@ Tech Stack: React, Node.js, Express, MongoDB.
   </tr>
 </table>
 
-<div style="clear: both; margin-bottom: 40px;"></div>
+<br><br><br><br><br>
 
-<div align="center">
-  <h3>🔧 Backend & Server</h3>
-</div>
+### 🔧 Backend & Server
 
 <table align="left">
   <tr>
@@ -226,11 +226,9 @@ Tech Stack: React, Node.js, Express, MongoDB.
   </tr>
 </table>
 
-<div style="clear: both; margin-bottom: 40px;"></div>
+<br><br><br><br><br>
 
-<div align="center">
-  <h3>🗄️ Databases</h3>
-</div>
+### 🗄️ Databases
 
 <table align="left">
   <tr>
@@ -255,11 +253,9 @@ Tech Stack: React, Node.js, Express, MongoDB.
   </tr>
 </table>
 
-<div style="clear: both; margin-bottom: 40px;"></div>
+<br><br><br><br><br>
 
-<div align="center">
-  <h3>🔗 APIs & Libraries</h3>
-</div>
+### 🔗 APIs & Libraries
 
 <table align="left">
   <tr>
@@ -284,11 +280,9 @@ Tech Stack: React, Node.js, Express, MongoDB.
   </tr>
 </table>
 
-<div style="clear: both; margin-bottom: 40px;"></div>
+<br><br><br><br><br>
 
-<div align="center">
-  <h3>🛠️ Tools & Version Control</h3>
-</div>
+### 🛠️ Tools & Version Control
 
 <table align="left">
   <tr>
