@@ -301,7 +301,9 @@ Tech Stack: React, Node.js, Express, MongoDB.
 <div style="clear: both; margin-bottom: 80px;"></div>
 
 <div align="left">
-  <em>🎯 As a student developer, I'm actively learning and growing my expertise in these technologies through hands-on projects and continuous practice!</em>
+  <p style="font-size: 12px; margin-top: 30px;">
+    <em>🎯 As a student developer, I'm actively learning and growing my expertise in these technologies through hands-on projects and continuous practice!</em>
+  </p>
 </div>
 
 <div align="left">
