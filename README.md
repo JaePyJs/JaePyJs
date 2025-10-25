@@ -61,10 +61,6 @@
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p>
-  Generated with <a href="https://github.com/Platane/snk">Platane/snk</a>.
-</p>
-
 <div align="left">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
 </div>
