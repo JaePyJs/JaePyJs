@@ -42,14 +42,6 @@ A production-ready, full-stack management system engineered for educational inst
 A full-stack web application generating unique recipes based on user preferences. Features include advanced filtering for cooking time, nutritional information, and specific ingredient selection.
 > **Tech:** React, Node.js, Express, MongoDB
 
-#### [Mystic Tarot Discord Bot](https://github.com/JaePyJs/discord_tarrot_bot)
-An interactive Discord bot that provides users with randomized Tarot card readings, utilizing complex command handling and custom rich embed responses to create an engaging user experience.
-> **Tech:** Python, discord.py
-
-#### [Academic Enrollment System](https://github.com/JaePyJs/perpetual-help-enrollment-system)
-A comprehensive academic management system built for a local educational institution, streamlining student registration, course management, and automated scheduling workflows.
-> **Tech:** Python, Flask, SQLite, HTML/CSS/JS
-
 ---
 
 ### 📊 GitHub Analytics & Activity
