@@ -9,6 +9,7 @@ I'm a CS undergrad building full-stack apps and spending way too much time tryin
 ### 🛠️ Tech Stack
 
 **Languages:**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -23,27 +24,31 @@ I'm a CS undergrad building full-stack apps and spending way too much time tryin
 **Backend & Databases:**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-**Currently Exploring:** `Supabase` | `Advanced Algorithms` | `Logic Programming`
+**Currently Exploring:** `Supabase` | `Advanced Algorithms` | `AI/ML Robustness`
 
 ---
 
 ### 🚀 Featured Projects
 
+#### [CLMS (Centralized Library Management System)](https://github.com/JaePyJs/CLMS)
+A production-ready, full-stack management system engineered for educational institutions, currently managing 880+ students and 2,900+ catalog items. Features a real-time WebSocket kiosk for check-ins, automated fine calculation logic, dynamic printing services, and Google Sheets API integration.
+> **Tech:** TypeScript, React, Express, Prisma ORM, SQLite, WebSockets
+
 #### [Mix and Munch: Filipino Recipe Generator](https://github.com/JaePyJs/mix-and-munch)
 A full-stack web application generating unique recipes based on user preferences. Features include advanced filtering for cooking time, nutritional information, and specific ingredient selection.
 > **Tech:** React, Node.js, Express, MongoDB
 
-#### [Perpetual Help Enrollment System](https://github.com/JaePyJs/perpetual-help-enrollment-system)
-A comprehensive academic management system built for Perpetual Help College, streamlining student registration, course management, and automated scheduling workflows.
-> **Tech:** Python, Flask, SQLite, HTML/CSS/JS
+#### [Mystic Tarot Discord Bot](https://github.com/JaePyJs/discord_tarrot_bot)
+An interactive Discord bot that provides users with randomized Tarot card readings, utilizing complex command handling and custom rich embed responses to create an engaging user experience.
+> **Tech:** Python, discord.py
 
-#### [Reddit2Discord Memes](https://github.com/JaePyJs/reddit2discord-memes)
-An automated integration bot that fetches, categorizes, and posts content from Reddit to specific Discord channels utilizing custom routing logic.
-> **Tech:** Python, discord.py, PRAW
+#### [Academic Enrollment System](https://github.com/JaePyJs/perpetual-help-enrollment-system)
+A comprehensive academic management system built for a local educational institution, streamlining student registration, course management, and automated scheduling workflows.
+> **Tech:** Python, Flask, SQLite, HTML/CSS/JS
 
 ---
 
