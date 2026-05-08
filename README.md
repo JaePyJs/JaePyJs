@@ -65,4 +65,3 @@ A full-stack web application generating unique recipes based on user preferences
 ### 📫 Let's Connect
 
 <a href="mailto:jmbarron0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/JaePyJs"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
