@@ -32,18 +32,6 @@ I'm a CS undergrad building full-stack apps and spending way too much time tryin
 
 ---
 
-### 🚀 Featured Projects
-
-#### [CLMS (Centralized Library Management System)](https://github.com/JaePyJs/CLMS)
-A production-ready, full-stack management system engineered for educational institutions, currently managing 880+ students and 2,900+ catalog items. Features a real-time WebSocket kiosk for check-ins, automated fine calculation logic, dynamic printing services, and Google Sheets API integration.
-> **Tech:** TypeScript, React, Express, Prisma ORM, SQLite, WebSockets
-
-#### [Mix and Munch: Filipino Recipe Generator](https://github.com/JaePyJs/mix-and-munch)
-A full-stack web application generating unique recipes based on user preferences. Features include advanced filtering for cooking time, nutritional information, and specific ingredient selection.
-> **Tech:** React, Node.js, Express, MongoDB
-
----
-
 ### 📊 GitHub Analytics & Activity
 
 <div align="center">
