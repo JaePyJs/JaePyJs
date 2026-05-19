@@ -1,15 +1,15 @@
-<img src="https://waveipfy.vercel.app/api/wave?color1=3776AB&color2=0d1117&height=70&speed=slow&type=wave" width="100%" />
+<img src="https://waveify.onrender.com/api/wave?color1=3776AB&color2=0d1117&height=70&speed=slow&type=wave" width="100%" />
 
 <img src="jae-intro.gif" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3776AB&vCenter=true&multiline=false&width=600&lines=CS+student.+AI+safety+nerd.+Occasional+menace." alt="Typing SVG" /></a>
+<img src="https://waveify.onrender.com/api/typing/terminal?text=jae+--+cs+student+%7C+ai+safety+nerd+%7C+occasional+menace&speed=60&color=%233776AB&backgroundColor=transparent&fontSize=18&fontFamily=Fira+Code%2C+monospace&width=700&height=50&cursor=true&type=terminal&prompt=%24+" width="700" />
 
 Builds things that probably shouldn't work. Breaks them to understand why they do.
 Currently writing a thesis on AI safety and pretending to have a sleep schedule.
 
-<img src="https://waveipfy.vercel.app/api/wave?color1=1e3a5f&color2=0d1117&height=35&speed=slow&type=smooth" width="100%" />
+<img src="https://waveify.onrender.com/api/wave?color1=1e3a5f&color2=0d1117&height=35&speed=slow&type=smooth" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=99999&color=3776AB&vCenter=true&width=200&lines=%F0%9F%9B%A0%EF%B8%8F+tech+stack" alt="tech stack" /></a>
+<img src="https://waveify.onrender.com/api/typing/terminal?text=cat+tech-stack.txt&speed=80&color=%233776AB&backgroundColor=transparent&fontSize=14&fontFamily=Fira+Code%2C+monospace&width=300&height=40&cursor=true&type=terminal&prompt=%24+" width="300" />
 
 **Languages:**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -33,31 +33,31 @@ Currently writing a thesis on AI safety and pretending to have a sleep schedule.
 
 `AI Safety` &nbsp;·&nbsp; `Supabase` &nbsp;·&nbsp; `Advanced Algorithms` &nbsp;·&nbsp; `things i probably shouldn't touch`
 
-<img src="https://waveipfy.vercel.app/api/wave?color1=1e3a5f&color2=0d1117&height=35&speed=slow&type=smooth" width="100%" />
+<img src="https://waveify.onrender.com/api/wave?color1=1e3a5f&color2=0d1117&height=35&speed=slow&type=smooth" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=99999&color=3776AB&vCenter=true&width=300&lines=%F0%9F%93%8C+stuff+i%27ve+been+building" alt="stuff" /></a>
+<img src="https://waveify.onrender.com/api/terminal?commands=ls+projects%2Fhackathons&theme=modern&speed=40&cursor=true&prompt=%24+&width=600&height=120&fontSize=14&showHeader=true&title=~/jae&githubMode=false&commandType=auto" width="600" />
 
 Hackathons, side projects, thesis work — mostly public, some not.
 Hit me up if something looks interesting.
 
-<img src="https://waveipfy.vercel.app/api/wave?color1=1e3a5f&color2=0d1117&height=35&speed=slow&type=smooth" width="100%" />
+<img src="https://waveify.onrender.com/api/wave?color1=1e3a5f&color2=0d1117&height=35&speed=slow&type=smooth" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=99999&color=3776AB&vCenter=true&width=200&lines=%F0%9F%90%8D+activity" alt="activity" /></a>
+<img src="https://waveify.onrender.com/api/typing/terminal?text=git+log+--oneline+--graph&speed=80&color=%233776AB&backgroundColor=transparent&fontSize=14&fontFamily=Fira+Code%2C+monospace&width=350&height=40&cursor=true&type=terminal&prompt=%24+" width="350" />
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake.svg" width="80%" />
+    <img alt="snake" src="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake.svg" width="80%" />
   </picture>
 </div>
 
-<img src="https://waveipfy.vercel.app/api/wave?color1=1e3a5f&color2=0d1117&height=35&speed=slow&type=smooth" width="100%" />
+<img src="https://waveify.onrender.com/api/wave?color1=1e3a5f&color2=0d1117&height=35&speed=slow&type=smooth" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=99999&color=3776AB&vCenter=true&width=200&lines=%F0%9F%93%AB+find+me" alt="find me" /></a>
+<img src="https://waveify.onrender.com/api/typing/terminal?text=echo+%22let%27s+connect%22&speed=80&color=%233776AB&backgroundColor=transparent&fontSize=14&fontFamily=Fira+Code%2C+monospace&width=300&height=40&cursor=true&type=terminal&prompt=%24+" width="300" />
 
 <a href="mailto:jmbarron0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/amjae/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-<img src="https://waveipfy.vercel.app/api/wave?color1=3776AB&color2=0d1117&height=50&speed=slow&type=wave" width="100%" />
+<img src="https://waveify.onrender.com/api/wave?color1=3776AB&color2=0d1117&height=50&speed=slow&type=wave" width="100%" />
