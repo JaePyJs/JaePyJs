@@ -1,7 +1,5 @@
 <img src="https://waveify.onrender.com/api/wave?color1=3776AB&color2=0d1117&height=70&speed=slow&type=wave" width="100%" />
 
-<img src="jae-intro.gif" width="100%" />
-
 <img src="https://waveify.onrender.com/api/typing/terminal?text=jae+--+cs+student+%7C+ai+safety+nerd+%7C+occasional+menace&speed=60&color=%233776AB&backgroundColor=transparent&fontSize=18&fontFamily=Fira+Code%2C+monospace&width=700&height=50&cursor=true&type=terminal&prompt=%24+" width="700" />
 
 Builds things that probably shouldn't work. Breaks them to understand why they do.
@@ -35,7 +33,7 @@ Currently writing a thesis on AI safety and pretending to have a sleep schedule.
 
 <img src="https://waveify.onrender.com/api/wave?color1=1e3a5f&color2=0d1117&height=35&speed=slow&type=smooth" width="100%" />
 
-<img src="https://waveify.onrender.com/api/terminal?commands=ls+projects%2Fhackathons&theme=modern&speed=40&cursor=true&prompt=%24+&width=600&height=120&fontSize=14&showHeader=true&title=~/jae&githubMode=false&commandType=auto" width="600" />
+<img src="https://waveify.onrender.com/api/typing/terminal?text=ls+projects%2F&speed=80&color=%233776AB&backgroundColor=transparent&fontSize=14&fontFamily=Fira+Code%2C+monospace&width=250&height=40&cursor=true&type=terminal&prompt=%24+" width="250" />
 
 Hackathons, side projects, thesis work — mostly public, some not.
 Hit me up if something looks interesting.
@@ -54,7 +52,7 @@ Hit me up if something looks interesting.
 
 <img src="https://waveify.onrender.com/api/wave?color1=1e3a5f&color2=0d1117&height=35&speed=slow&type=smooth" width="100%" />
 
-<img src="https://waveify.onrender.com/api/typing/terminal?text=echo+%22let%27s+connect%22&speed=80&color=%233776AB&backgroundColor=transparent&fontSize=14&fontFamily=Fira+Code%2C+monospace&width=300&height=40&cursor=true&type=terminal&prompt=%24+" width="300" />
+<img src="https://waveify.onrender.com/api/typing/terminal?text=echo+%22let%27s+connect%22&speed=80&color=%233776AB&backgroundColor=transparent&fontSize=14&fontFamily=Fira+Code%2C+monospace&width=280&height=40&cursor=true&type=terminal&prompt=%24+" width="280" />
 
 <a href="mailto:jmbarron0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 &nbsp;
