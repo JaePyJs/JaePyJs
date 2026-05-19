@@ -51,7 +51,7 @@ Projects are a mix of public and private repos — hit me up if you're curious.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaePyJs&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=777777" alt="Jae's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JaePyJs&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=777777" alt="Jae's GitHub Stats" />
   &nbsp;
   <img src="https://streak-stats.demolab.com?user=JaePyJs&theme=transparent&hide_border=true&ring=3776AB&fire=3776AB&currStreakLabel=3776AB&sideLabels=777777&dates=777777" alt="GitHub Streak" />
 </div>
