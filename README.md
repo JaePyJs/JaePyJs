@@ -2,20 +2,14 @@
 
 <img src="jae-intro.gif" width="100%" />
 
-# Hi, I'm Jae. 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3776AB&vCenter=true&multiline=false&width=600&lines=CS+student.+AI+safety+nerd.+Occasional+menace." alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3776AB&vCenter=true&width=500&lines=CS+Student+%7C+Still+Learning;Thesis%3A+Stopping+AI+from+Lying;3+Hackathons+1+Brain+Cell;Always+Building+Something" alt="Typing SVG" /></a>
-
-CS undergrad who builds things that probably shouldn't work — and somehow makes them work anyway.
-Currently writing a thesis on AI safety (yes, I'm trying to stop AI from going rogue, no it's not going well),
-fresh off **3 back-to-back hackathons**, and still convinced sleep is optional.
-
-I love breaking things on purpose just to understand them. I automate whatever I can before it becomes boring.
-I ship before it's perfect because "almost done" is a lie I've told myself too many times.
+Builds things that probably shouldn't work. Breaks them to understand why they do.
+Currently writing a thesis on AI safety and pretending to have a sleep schedule.
 
 <img src="https://waveipfy.vercel.app/api/wave?color1=1e3a5f&color2=0d1117&height=35&speed=slow&type=smooth" width="100%" />
 
-### 🛠️ Tech Stack
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=99999&color=3776AB&vCenter=true&width=200&lines=%F0%9F%9B%A0%EF%B8%8F+tech+stack" alt="tech stack" /></a>
 
 **Languages:**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -37,26 +31,18 @@ I ship before it's perfect because "almost done" is a lie I've told myself too m
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-**Currently Exploring:** `AI Safety` | `Supabase` | `Advanced Algorithms` | `Things I probably shouldn't touch`
+`AI Safety` &nbsp;·&nbsp; `Supabase` &nbsp;·&nbsp; `Advanced Algorithms` &nbsp;·&nbsp; `things i probably shouldn't touch`
 
 <img src="https://waveipfy.vercel.app/api/wave?color1=1e3a5f&color2=0d1117&height=35&speed=slow&type=smooth" width="100%" />
 
-### 🏆 Three Hackathons. One Month. Zero Regrets.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=99999&color=3776AB&vCenter=true&width=300&lines=%F0%9F%93%8C+stuff+i%27ve+been+building" alt="stuff" /></a>
 
-Built some stuff, broke some stuff, presented to judges while running on energy drinks and spite.
-Projects are a mix of public and private repos — hit me up if you're curious.
+Hackathons, side projects, thesis work — mostly public, some not.
+Hit me up if something looks interesting.
 
 <img src="https://waveipfy.vercel.app/api/wave?color1=1e3a5f&color2=0d1117&height=35&speed=slow&type=smooth" width="100%" />
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JaePyJs&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=777777" alt="Jae's GitHub Stats" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=JaePyJs&theme=transparent&hide_border=true&ring=3776AB&fire=3776AB&currStreakLabel=3776AB&sideLabels=777777&dates=777777" alt="GitHub Streak" />
-</div>
-
-<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=99999&color=3776AB&vCenter=true&width=200&lines=%F0%9F%90%8D+activity" alt="activity" /></a>
 
 <div align="center">
   <picture>
@@ -68,8 +54,10 @@ Projects are a mix of public and private repos — hit me up if you're curious.
 
 <img src="https://waveipfy.vercel.app/api/wave?color1=1e3a5f&color2=0d1117&height=35&speed=slow&type=smooth" width="100%" />
 
-### 📫 Let's Connect
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=99999&color=3776AB&vCenter=true&width=200&lines=%F0%9F%93%AB+find+me" alt="find me" /></a>
 
 <a href="mailto:jmbarron0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/amjae/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<img src="https://waveipfy.vercel.app/api/wave?color1=3776AB&color2=0d1117&height=50&speed=slow&type=wave" width="100%" />
