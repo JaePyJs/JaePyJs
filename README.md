@@ -1,13 +1,13 @@
 <img src="https://waveify.onrender.com/api/wave?color1=3776AB&color2=0d1117&height=70&speed=slow&type=wave" width="100%" />
 
-<img src="https://waveify.onrender.com/api/typing/terminal?text=jae+--+cs+student+%7C+ai+safety+nerd+%7C+occasional+menace&speed=60&color=%233776AB&backgroundColor=transparent&fontSize=18&fontFamily=Fira+Code%2C+monospace&width=700&height=50&cursor=true&type=terminal&prompt=%24+" width="700" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3776AB&vCenter=true&width=650&lines=cs+student.+ai+safety+nerd.+occasional+menace.;builds+things+that+probably+shouldn%27t+work.;thesis%3A+stopping+ai+from+lying+(not+going+well).;always+building+something." alt="Typing SVG" /></a>
 
 Builds things that probably shouldn't work. Breaks them to understand why they do.
 Currently writing a thesis on AI safety and pretending to have a sleep schedule.
 
 <img src="https://waveify.onrender.com/api/wave?color1=1e3a5f&color2=0d1117&height=35&speed=slow&type=smooth" width="100%" />
 
-<img src="https://waveify.onrender.com/api/typing/terminal?text=cat+tech-stack.txt&speed=80&color=%233776AB&backgroundColor=transparent&fontSize=14&fontFamily=Fira+Code%2C+monospace&width=300&height=40&cursor=true&type=terminal&prompt=%24+" width="300" />
+### 🛠️ tech stack
 
 **Languages:**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -33,14 +33,14 @@ Currently writing a thesis on AI safety and pretending to have a sleep schedule.
 
 <img src="https://waveify.onrender.com/api/wave?color1=1e3a5f&color2=0d1117&height=35&speed=slow&type=smooth" width="100%" />
 
-<img src="https://waveify.onrender.com/api/typing/terminal?text=ls+projects%2F&speed=80&color=%233776AB&backgroundColor=transparent&fontSize=14&fontFamily=Fira+Code%2C+monospace&width=250&height=40&cursor=true&type=terminal&prompt=%24+" width="250" />
+### 📌 stuff i've been building
 
 Hackathons, side projects, thesis work — mostly public, some not.
 Hit me up if something looks interesting.
 
 <img src="https://waveify.onrender.com/api/wave?color1=1e3a5f&color2=0d1117&height=35&speed=slow&type=smooth" width="100%" />
 
-<img src="https://waveify.onrender.com/api/typing/terminal?text=git+log+--oneline+--graph&speed=80&color=%233776AB&backgroundColor=transparent&fontSize=14&fontFamily=Fira+Code%2C+monospace&width=350&height=40&cursor=true&type=terminal&prompt=%24+" width="350" />
+### 🐍 activity
 
 <div align="center">
   <picture>
@@ -52,7 +52,7 @@ Hit me up if something looks interesting.
 
 <img src="https://waveify.onrender.com/api/wave?color1=1e3a5f&color2=0d1117&height=35&speed=slow&type=smooth" width="100%" />
 
-<img src="https://waveify.onrender.com/api/typing/terminal?text=echo+%22let%27s+connect%22&speed=80&color=%233776AB&backgroundColor=transparent&fontSize=14&fontFamily=Fira+Code%2C+monospace&width=280&height=40&cursor=true&type=terminal&prompt=%24+" width="280" />
+### 📫 find me
 
 <a href="mailto:jmbarron0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 &nbsp;
