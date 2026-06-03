@@ -6,7 +6,7 @@
 
 ---
 
-CS undergrad from PH. Building full-stack apps, poking holes in LLMs, and writing a thesis on quantized AI safety.
+AI Engineer from the Philippines. Building full-stack apps, poking holes in LLMs, and writing a thesis on quantized AI safety.
 I break things on purpose to understand them. I ship before it's perfect because done beats perfect every time.
 
 ---
@@ -77,5 +77,4 @@ If something looks interesting, hit me up.
 <a href="mailto:jmbarron0@gmail.com"><img src="https://img.shields.io/badge/-email-333?style=flat-square&logo=gmail&logoColor=white" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/amjae/"><img src="https://img.shields.io/badge/-linkedin-333?style=flat-square&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="https://github.com/JaePyJs"><img src="https://img.shields.io/badge/-github-333?style=flat-square&logo=github&logoColor=white" /></a>
+
