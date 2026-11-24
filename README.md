@@ -148,12 +148,6 @@ I’m Jae, a software developer in the Philippines. I build full-stack tools and
 ![IBM Bob](./assets/tech/ibm-bob-da9cb.svg)
 ![Google Jules](https://img.shields.io/badge/Google%20Jules-202733?style=flat-square&logo=googlejules&logoColor=9ee4d0)
 
-## Now playing
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=4p3os0gm66dpm0g3l8wqd1ypk&amp;redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=4p3os0gm66dpm0g3l8wqd1ypk&amp;theme=compact&amp;cover_image=false&amp;show_offline=false&amp;background_color=12171f&amp;bar_color=7fe7c6&amp;border_radius=8" width="216" alt="Now playing on Spotify">
-</a>
-
 ## Contribution snake
 
 Some squares are part of a synthetic calendar-art experiment.
