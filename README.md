@@ -34,6 +34,10 @@ I’m Jae, a developer in the Philippines. I build full-stack apps and study how
 - **Data & apps** · Prisma, SQLite, Python, Flutter, Dart
 - **Research** · Python, llama.cpp, Hugging Face
 
+## Now playing
+
+[![Spotify now playing](https://spotify-github-profile.kittinanx.com/api/view?uid=4p3os0gm66dpm0g3l8wqd1ypk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=4p3os0gm66dpm0g3l8wqd1ypk&redirect=true)
+
 ## Contribution snake
 
 <picture>
