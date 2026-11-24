@@ -40,6 +40,8 @@ I’m Jae, a developer in the Philippines. I build full-stack apps and study how
 
 ## Contribution snake
 
+Some squares are part of a synthetic calendar-art experiment.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake.svg" alt="Animated snake crossing my GitHub contribution grid" width="100%">
