@@ -1,24 +1,39 @@
 <picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="./assets/profile-banner-compact.png">
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-banner.png">
+  <source media="(max-width: 600px)" srcset="./assets/profile-banner-compact.gif">
   <img src="./assets/profile-banner.gif" alt="Jae · Software developer and AI research" width="760">
 </picture>
 
-I’m Jae, a software developer in the Philippines. I build full-stack tools and research how small language models behave. I’m open to software development roles.
+I build full-stack software and study how small language models behave. Based in the Philippines and open to software development roles.
 
-[Let’s talk on LinkedIn](https://www.linkedin.com/in/amjae/)
+[Connect on LinkedIn](https://www.linkedin.com/in/amjae/)
 
 ## Currently working on
 
-- **CLMS** · Improving the Windows library workflows for barcode check-ins, book lending, and overdue fines. Daily records stay in SQLite so those workflows can run locally. The source is private.
-- **AI safety thesis** · Testing whether quantization changes how often small language models produce harmful responses, and evaluating a safety layer that checks requests and responses.
+- **CLMS.** I’m improving barcode check-ins, lending, and overdue fines in a library app that runs locally on Windows. The source is private.
+- **AI safety thesis.** I’m studying how quantization affects harmful responses in small language models and testing a safety layer that checks requests and responses.
 
 ## Tech stack
 
+![TypeScript](https://img.shields.io/badge/TypeScript-202733?style=flat-square&logo=typescript&logoColor=93dbc7)
+![Python](https://img.shields.io/badge/Python-202733?style=flat-square&logo=python&logoColor=93dbc7)
+![React](https://img.shields.io/badge/React-202733?style=flat-square&logo=react&logoColor=8fceff)
+![Next.js](https://img.shields.io/badge/Next.js-202733?style=flat-square&logo=nextdotjs&logoColor=8fceff)
+![Node.js](https://img.shields.io/badge/Node.js-202733?style=flat-square&logo=nodedotjs&logoColor=a8e1a4)
+![FastAPI](https://img.shields.io/badge/FastAPI-202733?style=flat-square&logo=fastapi&logoColor=a8e1a4)
+![Prisma](https://img.shields.io/badge/Prisma-202733?style=flat-square&logo=prisma&logoColor=a8e1a4)
+![SQLite](https://img.shields.io/badge/SQLite-202733?style=flat-square&logo=sqlite&logoColor=a8e1a4)
+![Flutter](https://img.shields.io/badge/Flutter-202733?style=flat-square&logo=flutter&logoColor=f0c48f)
+![PyTorch](https://img.shields.io/badge/PyTorch-202733?style=flat-square&logo=pytorch&logoColor=c0affb)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-202733?style=flat-square&logo=huggingface&logoColor=c0affb)
+
+<details>
+<summary>More technologies by category</summary>
+
 ### Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-202733?style=flat-square&logo=typescript&logoColor=93dbc7)
 ![JavaScript](https://img.shields.io/badge/JavaScript-202733?style=flat-square&logo=javascript&logoColor=93dbc7)
-![Python](https://img.shields.io/badge/Python-202733?style=flat-square&logo=python&logoColor=93dbc7)
 ![HTML](https://img.shields.io/badge/HTML-202733?style=flat-square&logo=html5&logoColor=93dbc7)
 ![CSS](https://img.shields.io/badge/CSS-202733?style=flat-square&logo=css&logoColor=93dbc7)
 ![SQL](https://img.shields.io/badge/SQL-202733?style=flat-square&logo=sqlite&logoColor=93dbc7)
@@ -31,8 +46,6 @@ I’m Jae, a software developer in the Philippines. I build full-stack tools and
 
 ### Web, UI & 3D
 
-![React](https://img.shields.io/badge/React-202733?style=flat-square&logo=react&logoColor=8fceff)
-![Next.js](https://img.shields.io/badge/Next.js-202733?style=flat-square&logo=nextdotjs&logoColor=8fceff)
 ![Astro](https://img.shields.io/badge/Astro-202733?style=flat-square&logo=astro&logoColor=8fceff)
 ![Vite](https://img.shields.io/badge/Vite-202733?style=flat-square&logo=vite&logoColor=8fceff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-202733?style=flat-square&logo=tailwindcss&logoColor=8fceff)
@@ -51,12 +64,8 @@ I’m Jae, a software developer in the Philippines. I build full-stack tools and
 
 ### Backend, data & integrations
 
-![Node.js](https://img.shields.io/badge/Node.js-202733?style=flat-square&logo=nodedotjs&logoColor=a8e1a4)
 ![Express](https://img.shields.io/badge/Express-202733?style=flat-square&logo=express&logoColor=a8e1a4)
-![FastAPI](https://img.shields.io/badge/FastAPI-202733?style=flat-square&logo=fastapi&logoColor=a8e1a4)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-202733?style=flat-square&logo=socketdotio&logoColor=a8e1a4)
-![Prisma](https://img.shields.io/badge/Prisma-202733?style=flat-square&logo=prisma&logoColor=a8e1a4)
-![SQLite](https://img.shields.io/badge/SQLite-202733?style=flat-square&logo=sqlite&logoColor=a8e1a4)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-202733?style=flat-square&logo=postgresql&logoColor=a8e1a4)
 ![MySQL](https://img.shields.io/badge/MySQL-202733?style=flat-square&logo=mysql&logoColor=a8e1a4)
 ![MongoDB](https://img.shields.io/badge/MongoDB-202733?style=flat-square&logo=mongodb&logoColor=a8e1a4)
@@ -68,12 +77,8 @@ I’m Jae, a software developer in the Philippines. I build full-stack tools and
 ![Discord API](https://img.shields.io/badge/Discord%20API-202733?style=flat-square&logo=discord&logoColor=a8e1a4)
 ![Tree-sitter](./assets/tech/tree-sitter-14a58.svg)
 
-<details>
-<summary>Mobile, desktop, AI and delivery stacks</summary>
-
 ### Mobile & desktop
 
-![Flutter](https://img.shields.io/badge/Flutter-202733?style=flat-square&logo=flutter&logoColor=f0c48f)
 ![Riverpod](./assets/tech/riverpod-324d6.svg)
 ![Drift](./assets/tech/drift-8b4c8.svg)
 ![React Native](https://img.shields.io/badge/React%20Native-202733?style=flat-square&logo=react&logoColor=f0c48f)
@@ -88,8 +93,6 @@ I’m Jae, a software developer in the Philippines. I build full-stack tools and
 
 ### AI, data science & inference
 
-![PyTorch](https://img.shields.io/badge/PyTorch-202733?style=flat-square&logo=pytorch&logoColor=c0affb)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-202733?style=flat-square&logo=huggingface&logoColor=c0affb)
 ![Transformers](https://img.shields.io/badge/Transformers-202733?style=flat-square&logo=huggingface&logoColor=c0affb)
 ![PEFT](https://img.shields.io/badge/PEFT-202733?style=flat-square&logo=huggingface&logoColor=c0affb)
 ![ONNX](https://img.shields.io/badge/ONNX-202733?style=flat-square&logo=onnx&logoColor=c0affb)
