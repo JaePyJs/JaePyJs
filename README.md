@@ -1,17 +1,42 @@
-# Hi, I’m Jae.
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-banner.png">
+  <img src="./assets/profile-banner.gif" alt="Jae · Full-stack development and small-model research" width="760">
+</picture>
 
-I’m a fourth-year Computer Science student in the Philippines, getting ready for my OJT. I build full-stack apps and I’m exploring AI engineering through my thesis, where I’m studying how quantization affects the safety of small language models.
+I’m Jae, a developer in the Philippines. I build full-stack apps and study how small language models behave. I’m open to software development roles.
 
-[Portfolio](https://jae-next-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/amjae/)
+[Let’s talk on LinkedIn](https://www.linkedin.com/in/amjae/)
 
-## Projects I’ve built
+## Currently working on
 
-- **CLMS** — A Windows library management system for barcode check-ins, borrowing, and overdue fines. Day-to-day records live in SQLite, so the library can keep working when its internet connection drops. Built with React, TypeScript, Node.js, Express, and Prisma. *Private repository.*
-- **[Bob the SAGE](https://github.com/JaePyJs/bob-the-sage)** — A research tool that maps how papers cite one another and tracks how a topic changes over time. Built with Python, FastAPI, NetworkX, and Next.js. [Case study](https://jae-next-portfolio.vercel.app/projects/bob-the-sage)
-- **[Riri](https://github.com/JaePyJs/riri)** — An offline reminder app that turns everyday Taglish into tasks. Pick a personality for your reminders, from Chill to Tita. The current app uses Flutter, Riverpod, and SQLite.
-- **[NODEFALL](https://github.com/JaePyJs/nodefall)** — A 3D tower defense game where you place and upgrade defenses along a network path. Built with TypeScript, Three.js, and Vite.
-- **[ChorusOps](https://github.com/JaePyJs/chorusops)** — A prototype that takes a spoken startup pitch in Discord and turns it into a transcript and a scorecard. Built with TypeScript, Speechmatics, and Gemini.
+- **CLMS** · Improving the Windows library workflows for barcode check-ins, book lending, and overdue fines. Daily records stay in SQLite so those workflows can run locally. The source is private.
+- **AI safety thesis** · Testing whether quantization changes how often small language models produce harmful responses, and evaluating a safety layer that checks requests and responses.
 
-## Team hackathons
+## Selected work
 
-I’ve also worked with teammates on [GREPO](https://lablab.build/ai-hackathons/ibm-bob-2-hackathon/strawhat-pirates/grepo-find-your-way-through-the-code), a tool for finding your way around a codebase, and on two AMD hackathon projects, a [stock news sentiment pipeline](https://lablab.build/ai-hackathons/amd-developer/techvortex/sentiment-analysis-of-a-stock-data-on-news) and a [routing agent](https://github.com/SajidHameed223/AMD_Hackaton-Team-0-1-).
+- **[Bob the SAGE](https://github.com/JaePyJs/bob-the-sage)** · Maps how papers cite each other and shows how a research topic changes over time.<br>
+  _Python, FastAPI, NetworkX, Next.js_
+
+- **[Riri](https://github.com/JaePyJs/riri)** · Turns everyday Taglish into reminders that work offline. Users choose how the app talks to them, from Chill to Tita.<br>
+  _Dart, Flutter, Riverpod, SQLite_
+
+- **[NODEFALL](https://github.com/JaePyJs/nodefall)** · A 3D tower defense game where you place and upgrade defenses along a network path.<br>
+  _TypeScript, Three.js, Vite_
+
+- **[ChorusOps](https://github.com/JaePyJs/chorusops)** · A voice prototype that turns a startup pitch from a Discord call into a transcript and a scorecard.<br>
+  _TypeScript, Speechmatics, Gemini_
+
+**Team hackathons** · [GREPO](https://lablab.build/ai-hackathons/ibm-bob-2-hackathon/strawhat-pirates/grepo-find-your-way-through-the-code) for navigating codebases, and AMD team projects on [stock news sentiment](https://lablab.build/ai-hackathons/amd-developer/techvortex/sentiment-analysis-of-a-stock-data-on-news) and [agent routing](https://github.com/SajidHameed223/AMD_Hackaton-Team-0-1-).
+
+## Tech stack
+
+- **Web & backend** · TypeScript, React, Next.js, Node.js, Express, FastAPI
+- **Data & apps** · Prisma, SQLite, Python, Flutter, Dart
+- **Research** · Python, llama.cpp, Hugging Face
+
+## Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake.svg" alt="Animated snake crossing my GitHub contribution grid" width="100%">
+</picture>
