@@ -153,7 +153,6 @@ I build full-stack software and study how small language models behave. Based in
 
 ## Contribution snake
 
-Some squares are part of a synthetic calendar-art experiment.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake-dark.svg">
