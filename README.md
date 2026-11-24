@@ -155,6 +155,6 @@ I build full-stack software and study how small language models behave. Based in
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/JaePyJs/JaePyJs/output/github-contribution-grid-snake.svg" alt="Animated snake crossing my GitHub contribution grid" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaePyJs/JaePyJs/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/JaePyJs/JaePyJs/refs/heads/output/github-contribution-grid-snake.svg" alt="Animated snake crossing my GitHub contribution grid" width="100%">
 </picture>
